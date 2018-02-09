@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on (⁎˃ᆺ˂)</title>
-    <link>https://fadlun.me/categories/</link>
+    <link>https://alunux.github.io/categories/</link>
     <description>Recent content in Categories on (⁎˃ᆺ˂)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Mon, 03 Apr 2017 20:02:43 +0700</lastBuildDate>
     
-	<atom:link href="https://fadlun.me/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alunux.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Catatan Dnf</title>
-      <link>https://fadlun.me/categories/catatan-dnf/</link>
+      <link>https://alunux.github.io/categories/catatan-dnf/</link>
       <pubDate>Mon, 03 Apr 2017 20:02:43 +0700</pubDate>
       
-      <guid>https://fadlun.me/categories/catatan-dnf/</guid>
+      <guid>https://alunux.github.io/categories/catatan-dnf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Catatan Linux</title>
-      <link>https://fadlun.me/categories/catatan-linux/</link>
+      <link>https://alunux.github.io/categories/catatan-linux/</link>
       <pubDate>Mon, 03 Apr 2017 23:25:29 +0700</pubDate>
       
-      <guid>https://fadlun.me/categories/catatan-linux/</guid>
+      <guid>https://alunux.github.io/categories/catatan-linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Catatan Python</title>
-      <link>https://fadlun.me/categories/catatan-python/</link>
+      <link>https://alunux.github.io/categories/catatan-python/</link>
       <pubDate>Thu, 09 Jun 2016 19:26:51 +0700</pubDate>
       
-      <guid>https://fadlun.me/categories/catatan-python/</guid>
+      <guid>https://alunux.github.io/categories/catatan-python/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evince on (⁎˃ᆺ˂)</title>
-    <link>https://fadlun.me/tags/evince/</link>
+    <link>https://alunux.github.io/tags/evince/</link>
     <description>Recent content in Evince on (⁎˃ᆺ˂)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Tue, 16 Sep 2014 04:45:12 +0700</lastBuildDate>
     
-	<atom:link href="https://fadlun.me/tags/evince/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alunux.github.io/tags/evince/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Keganjilan Evince? CUPS? Kekeliruan Saat Print</title>
-      <link>https://fadlun.me/post/keganjilan-evince-cups-kekeliruan-saat-print/</link>
+      <link>https://alunux.github.io/post/keganjilan-evince-cups-kekeliruan-saat-print/</link>
       <pubDate>Tue, 16 Sep 2014 04:45:12 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/keganjilan-evince-cups-kekeliruan-saat-print/</guid>
+      <guid>https://alunux.github.io/post/keganjilan-evince-cups-kekeliruan-saat-print/</guid>
       <description>Bismillahirrahmanirrahim.
 Sudah lama saya tidak menulis kejadian-kejadian apa saja yang telah terjadi di komputer saya. Alhamdulillah, semangat menulis itu muncul kembali.
 Pada kesempatan kali ini saya ingin menceritakan pengalaman saya saat memakai software pembaca file PDF Evince (software bawaan Fedora dengan DE Gnome) dan printer Canon PIXMA MP-237. Jujur, saya tidak tahu harus memberikan judul apa yang tepat untuk tulisan ini. Pengalaman ini sudah pernah saya bagikan sebelumnya di grup FB Komunitas Fedora Indonesia.</description>

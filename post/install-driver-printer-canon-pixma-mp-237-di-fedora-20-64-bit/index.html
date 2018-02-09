@@ -30,17 +30,17 @@ Name: libtiff_so3_link Version: 1.0 Release: 1%{?dist} Summary: Symlink from lib
  Buka terminal dan login sebagai root. Command: su -
  Buka aplikasi text editor (misal gedit/kwrite/kate/vim/nano/lainnya). Copy paste tulisan dibawah ini ke text editor:
 Name: libtiff_so3_link Version: 1.0 Release: 1%{?dist} Summary: Symlink from libtiff.so.5 to libtiff.so.3 License: GPL Requires: %{_libdir}/libtiff.so.5 %ifarch x86_64 Provides: libtiff.so.3()(64bit) %else Provides: libtiff.so.3 %endif %description %{summary} %prep %build %install ln -s %{_libdir}/libtiff." />
-    <meta name="twitter:image" content=https://fadlun.me/img/avatar.jpg />
+    <meta name="twitter:image" content=https://alunux.github.io/img/avatar.jpg />
   
 
 
 
 
-<meta name="generator" content="Hugo 0.25.1" />
+<meta name="generator" content="Hugo 0.31" />
 
 
-<link rel="canonical" href="https://fadlun.me/post/install-driver-printer-canon-pixma-mp-237-di-fedora-20-64-bit/" />
-<link rel="alternative" href="https://fadlun.me/index.xml" title="(⁎˃ᆺ˂)" type="application/atom+xml" />
+<link rel="canonical" href="https://alunux.github.io/post/install-driver-printer-canon-pixma-mp-237-di-fedora-20-64-bit/" />
+<link rel="alternative" href="https://alunux.github.io/index.xml" title="(⁎˃ᆺ˂)" type="application/atom+xml" />
 
 
 <meta name="renderer" content="webkit" />
@@ -65,18 +65,18 @@ Name: libtiff_so3_link Version: 1.0 Release: 1%{?dist} Summary: Symlink from lib
 <meta name='msapplication-navbutton-color' content="#5fbf5e" />
 <meta name="msapplication-TileColor" content="#5fbf5e" />
 <meta name="msapplication-TileImage" content="/img/tile-image-windows.png" />
-<link rel="icon" href="https://fadlun.me/img/favicon.ico" />
-<link rel="icon" type="image/png" sizes="16x16" href="https://fadlun.me/img/favicon-16x16.png" />
-<link rel="icon" type="image/png" sizes="32x32" href="https://fadlun.me/img/favicon-32x32.png" />
-<link rel="icon" sizes="192x192" href="https://fadlun.me/img/touch-icon-android.png" />
-<link rel="apple-touch-icon" href="https://fadlun.me/img/touch-icon-apple.png" />
-<link rel="mask-icon" href="https://fadlun.me/img/safari-pinned-tab.svg" color="#5fbf5e" />
+<link rel="icon" href="https://alunux.github.io/img/favicon.ico" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://alunux.github.io/img/favicon-16x16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://alunux.github.io/img/favicon-32x32.png" />
+<link rel="icon" sizes="192x192" href="https://alunux.github.io/img/touch-icon-android.png" />
+<link rel="apple-touch-icon" href="https://alunux.github.io/img/touch-icon-apple.png" />
+<link rel="mask-icon" href="https://alunux.github.io/img/safari-pinned-tab.svg" color="#5fbf5e" />
 
 
 
 <link rel="stylesheet" href="//cdn.bootcss.com/video.js/6.2.1/video-js.min.css" />
 
-<link rel="stylesheet" href="https://fadlun.me/css/bundle.css" />
+<link rel="stylesheet" href="https://alunux.github.io/css/bundle.css" />
 
 
   
@@ -111,7 +111,7 @@ Name: libtiff_so3_link Version: 1.0 Release: 1%{?dist} Summary: Symlink from lib
     
     
   <header class="site-header">
-  <img class="avatar" src="https://fadlun.me/img/avatar.jpg" alt="Avatar">
+  <img class="avatar" src="https://alunux.github.io/img/avatar.jpg" alt="Avatar">
   
   <h2 class="title">(⁎˃ᆺ˂)</h2>
   
@@ -126,11 +126,11 @@ Name: libtiff_so3_link Version: 1.0 Release: 1%{?dist} Summary: Symlink from lib
       
       
       
-        <li class="menu-item  is-active"><a href="https://fadlun.me/">Blog</a></li>
+        <li class="menu-item  is-active"><a href="https://alunux.github.io/">Blog</a></li>
       
         <li class="menu-item "><a href="https://github.com/alunux">GitHub</a></li>
       
-        <li class="menu-item "><a href="https://fadlun.me/about/">About</a></li>
+        <li class="menu-item "><a href="https://alunux.github.io/about/">About</a></li>
       
     </ul>
   </nav>
@@ -195,7 +195,7 @@ Name: libtiff_so3_link Version: 1.0 Release: 1%{?dist} Summary: Symlink from lib
       
 
       <li class="social-item">
-        <a href="https://fadlun.me/index.xml"><span class="icon icon-rss" title="RSS"></span></a>
+        <a href="https://alunux.github.io/index.xml"><span class="icon icon-rss" title="RSS"></span></a>
       </li>
 
     </ul>
@@ -215,29 +215,29 @@ Name: libtiff_so3_link Version: 1.0 Release: 1%{?dist} Summary: Symlink from lib
 <li><p>Buka terminal dan login sebagai root. Command: <code>su -</code></p></li>
 
 <li><p>Buka aplikasi text editor (misal gedit/kwrite/kate/vim/nano/lainnya). Copy paste tulisan dibawah ini ke text editor:</p>
-    Name:           libtiff_so3_link
-    Version:        1.0
-    Release:        1%{?dist}
+<div class="highlight"><pre class="chroma"><code class="language-sh" data-lang="sh">    Name:           libtiff_so3_link
+    Version:        <span class="m">1</span>.0
+    Release:        <span class="m">1</span>%<span class="o">{</span>?dist<span class="o">}</span>
     Summary:        Symlink from libtiff.so.5 to libtiff.so.3
     License:        GPL
-    Requires:       %{_libdir}/libtiff.so.5
+    Requires:       %<span class="o">{</span>_libdir<span class="o">}</span>/libtiff.so.5
     %ifarch x86_64
-    Provides:       libtiff.so.3()(64bit)
+    Provides:       libtiff.so.3<span class="o">()(</span>64bit<span class="o">)</span>
     %else
     Provides:       libtiff.so.3
     %endif
     %description
-    %{summary}
+    %<span class="o">{</span>summary<span class="o">}</span>
     %prep
     %build
     %install
-    ln -s %{_libdir}/libtiff.so.5   %{buildroot}/%{_libdir}/libtiff.so.3
-    mkdir -p %{buildroot}/%{_libdir}/
+    ln -s %<span class="o">{</span>_libdir<span class="o">}</span>/libtiff.so.5   %<span class="o">{</span>buildroot<span class="o">}</span>/%<span class="o">{</span>_libdir<span class="o">}</span>/libtiff.so.3
+    mkdir -p %<span class="o">{</span>buildroot<span class="o">}</span>/%<span class="o">{</span>_libdir<span class="o">}</span>/
     %files
-    %{_libdir}/libtiff.so.3
+    %<span class="o">{</span>_libdir<span class="o">}</span>/libtiff.so.3
     %changelog
-    * Thu Mar 06 2014  1.0-1
-    - Initial build.</li>
+    * Thu Mar <span class="m">06</span> <span class="m">2014</span>  <span class="m">1</span>.0-1
+    - Initial build.</code></pre></div></li>
 
 <li><p>Save dengan nama <code>libtiff_so3_link.spec</code></p></li>
 
@@ -263,16 +263,16 @@ Kernel : 3.14.9-200.fc20.x86_64</p>
       
       <ul class="post-tags">
         
-          <li><a href="https://fadlun.me/tags/fedora"><span class="tag">Fedora</span></a></li>
+          <li><a href="https://alunux.github.io/tags/fedora"><span class="tag">Fedora</span></a></li>
         
-          <li><a href="https://fadlun.me/tags/printer"><span class="tag">Printer</span></a></li>
+          <li><a href="https://alunux.github.io/tags/printer"><span class="tag">Printer</span></a></li>
         
-          <li><a href="https://fadlun.me/tags/driver"><span class="tag">Driver</span></a></li>
+          <li><a href="https://alunux.github.io/tags/driver"><span class="tag">Driver</span></a></li>
         
       </ul>
       
       <p class="post-copyright">
-        © This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.This post was published <strong>1119</strong> days ago, content in the post may be inaccurate, even wrong now, please take risk yourself.
+        © This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.This post was published <strong>1300</strong> days ago, content in the post may be inaccurate, even wrong now, please take risk yourself.
       </p>
     </footer>
     
@@ -294,13 +294,13 @@ Kernel : 3.14.9-200.fc20.x86_64</p>
         (d.head || d.body).appendChild(s);
     })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       
     
   </section>
   <footer class="site-footer">
-  <p>© 2017 (⁎˃ᆺ˂)</p>
+  <p>© 2017-2018 (⁎˃ᆺ˂)</p>
   <p>Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> with theme <a href="https://github.com/laozhu/hugo-nuo" target="_blank">Nuo</a>.</p>
   
 </footer>
@@ -310,7 +310,7 @@ Kernel : 3.14.9-200.fc20.x86_64</p>
 <script src="//cdn.bootcss.com/video.js/6.2.1/video.min.js"></script>
 <script src="//cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-<script src="https://fadlun.me/js/bundle.js"></script>
+<script src="https://alunux.github.io/js/bundle.js"></script>
 
 
 

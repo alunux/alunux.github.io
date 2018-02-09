@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xubuntu on (⁎˃ᆺ˂)</title>
-    <link>https://fadlun.me/tags/xubuntu/</link>
+    <link>https://alunux.github.io/tags/xubuntu/</link>
     <description>Recent content in Xubuntu on (⁎˃ᆺ˂)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Mon, 11 May 2015 16:53:15 +0700</lastBuildDate>
     
-	<atom:link href="https://fadlun.me/tags/xubuntu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alunux.github.io/tags/xubuntu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Xubuntu Untuk Laptop ASUS A455L</title>
-      <link>https://fadlun.me/post/xubuntu-untuk-laptop-asus-a455l/</link>
+      <link>https://alunux.github.io/post/xubuntu-untuk-laptop-asus-a455l/</link>
       <pubDate>Mon, 11 May 2015 16:53:15 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/xubuntu-untuk-laptop-asus-a455l/</guid>
+      <guid>https://alunux.github.io/post/xubuntu-untuk-laptop-asus-a455l/</guid>
       <description>Bismillahirrahmanirrahim.
 Alhamdulillah, beberapa waktu yang lalu saya menemukan distro linux yang cocok untuk laptop ASUS A455L. Distro tersebut adalah elementaryOS Freya 64-bit dan Xubuntu 15.04 Vivid Vervet 64-bit. Pengenalan perangkat keras dilaksanakan dengan baik oleh kedua distro tersebut. Spesifikasi perangkat kerasnya adalah sebagai berikut:  Prosesor : Intel Core i3-4030U 1.9 GHz RAM : 2 GB Harddisk : 500 GB VGA : Intel + Nvidia Geforce 820M.  elementaryOS membutuhkan PPA untuk mendeteksi dan memasang driver Nvidia.</description>
     </item>

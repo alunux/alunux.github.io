@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gpg on (⁎˃ᆺ˂)</title>
-    <link>https://fadlun.me/tags/gpg/</link>
+    <link>https://alunux.github.io/tags/gpg/</link>
     <description>Recent content in Gpg on (⁎˃ᆺ˂)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Fri, 04 Sep 2015 16:01:43 +0700</lastBuildDate>
     
-	<atom:link href="https://fadlun.me/tags/gpg/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alunux.github.io/tags/gpg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mengatasi Error Debootstrap di Fedora 22: E: Error executing gpgv to check Release signature</title>
-      <link>https://fadlun.me/post/mengatasi-error-debootstrap-di-fedora-22/</link>
+      <link>https://alunux.github.io/post/mengatasi-error-debootstrap-di-fedora-22/</link>
       <pubDate>Fri, 04 Sep 2015 16:01:43 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/mengatasi-error-debootstrap-di-fedora-22/</guid>
+      <guid>https://alunux.github.io/post/mengatasi-error-debootstrap-di-fedora-22/</guid>
       <description>Bismillahirrahmanirrahim.
 Beberapa waktu yang lalu saya membuat sebuah container sederhana menggunakan systemd-nspawn untuk keperluan nyoba-nyoba aplikasi di debian/ubuntu, salah satunya alldeb. Ketika saya menjalankan debootstrap, saya mendapatkan pesan error sebagai berikut.
  Pesan error: Error executing gpgv to check Release signature. Setelah dicek, ternyata software bernama gpgv belum terpasang (adanya gpgv2). gpgv tersedia dalam paket gnupg. Jalankan &amp;ldquo;sudo dnf install gnupg&amp;rdquo; untuk mendapatkan gpgv. Setelah instalasi selesai, jalankan kembali perintah debootstrap.</description>

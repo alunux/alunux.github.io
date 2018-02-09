@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kernel on (⁎˃ᆺ˂)</title>
-    <link>https://fadlun.me/tags/kernel/</link>
+    <link>https://alunux.github.io/tags/kernel/</link>
     <description>Recent content in Kernel on (⁎˃ᆺ˂)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Fri, 05 Feb 2016 12:34:50 +0700</lastBuildDate>
     
-	<atom:link href="https://fadlun.me/tags/kernel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alunux.github.io/tags/kernel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hapus Kernel Lama di Fedora dengan DNF</title>
-      <link>https://fadlun.me/post/dnf_hapus_kernel_lama_fedora/</link>
+      <link>https://alunux.github.io/post/dnf_hapus_kernel_lama_fedora/</link>
       <pubDate>Fri, 05 Feb 2016 12:34:50 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/dnf_hapus_kernel_lama_fedora/</guid>
+      <guid>https://alunux.github.io/post/dnf_hapus_kernel_lama_fedora/</guid>
       <description>Bismillahirrahmanirrahim.
 [Masalah]
 Sebelum Fedora menjadikan DNF sebagai manajer paketnya, kita dengan mudah dapat menghapus kernel lama beserta dependensinya yang tidak perlukan oleh paket lain dengan menggunakan perintah:

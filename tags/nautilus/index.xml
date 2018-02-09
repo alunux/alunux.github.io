@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nautilus on (⁎˃ᆺ˂)</title>
-    <link>https://fadlun.me/tags/nautilus/</link>
+    <link>https://alunux.github.io/tags/nautilus/</link>
     <description>Recent content in Nautilus on (⁎˃ᆺ˂)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Sun, 03 Jan 2016 15:55:36 +0700</lastBuildDate>
     
-	<atom:link href="https://fadlun.me/tags/nautilus/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alunux.github.io/tags/nautilus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nautilus &#43; BTFS (bittorrent filesystem)</title>
-      <link>https://fadlun.me/post/nautilus_btfs/</link>
+      <link>https://alunux.github.io/post/nautilus_btfs/</link>
       <pubDate>Sun, 03 Jan 2016 15:55:36 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/nautilus_btfs/</guid>
+      <guid>https://alunux.github.io/post/nautilus_btfs/</guid>
       <description>Bismillahirrahmanirrahim.
 [Persiapan] 
 $ sudo dnf install fuse-devel rb_libtorrent-devel libcurl-devel fuse gvfs-fuse [Kompilasi]

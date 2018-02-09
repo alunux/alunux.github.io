@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on (⁎˃ᆺ˂)</title>
-    <link>https://fadlun.me/tags/programming/</link>
+    <link>https://alunux.github.io/tags/programming/</link>
     <description>Recent content in Programming on (⁎˃ᆺ˂)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Tue, 30 Aug 2016 23:23:48 +0700</lastBuildDate>
     
-	<atom:link href="https://fadlun.me/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alunux.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Auto Hide Scrollbar Di Atom (Atom Material UI Theme)</title>
-      <link>https://fadlun.me/post/atom_hide_scrollbar/</link>
+      <link>https://alunux.github.io/post/atom_hide_scrollbar/</link>
       <pubDate>Tue, 30 Aug 2016 23:23:48 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/atom_hide_scrollbar/</guid>
+      <guid>https://alunux.github.io/post/atom_hide_scrollbar/</guid>
       <description>Bismillahirrahmanirrahim.
 Pada postingan kali ini saya ingin berbagi tips bagi teman-teman pengguna penyunting teks Atom yang kurang suka dengan ukuran scrollbar yang agak besar atau tampilan scrollbar yang selalu nongol pada editor. Hasil akhirnya adalah scrollbar tidak akan tampil kecuali kita melakukan hover pada area vertical/horizontal scrollbar.
 Langkah pertama yaitu carilah lokasi direktori paket tema yang dipakai. Lokasi paket-paket yang terpasang pada Atom terletak di direktori ~/.atom/packages/. Karena saya memakai tema Atom Material, maka saya dapatkan direktorinya di ~/.</description>
@@ -25,10 +25,10 @@ Langkah pertama yaitu carilah lokasi direktori paket tema yang dipakai. Lokasi 
     
     <item>
       <title>Mencoba xmlrpc (Python 3)</title>
-      <link>https://fadlun.me/post/xmlrpc_python/</link>
+      <link>https://alunux.github.io/post/xmlrpc_python/</link>
       <pubDate>Thu, 09 Jun 2016 19:26:51 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/xmlrpc_python/</guid>
+      <guid>https://alunux.github.io/post/xmlrpc_python/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Bismillahirrahmanirrahim.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;[TL;DR]&lt;/strong&gt;&lt;/p&gt;
@@ -40,10 +40,10 @@ Langkah pertama yaitu carilah lokasi direktori paket tema yang dipakai. Lokasi 
     
     <item>
       <title>Tugas: Sorting &amp; Perkalian Matrix</title>
-      <link>https://fadlun.me/post/python_perkalian_matrix/</link>
+      <link>https://alunux.github.io/post/python_perkalian_matrix/</link>
       <pubDate>Fri, 18 Mar 2016 06:25:26 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/python_perkalian_matrix/</guid>
+      <guid>https://alunux.github.io/post/python_perkalian_matrix/</guid>
       <description>Bismillahirrahmanirrahim.
 Source code
  versi python 2: https://github.com/alunux/Learn-Python/blob/master/tugas_pemlel.py

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pdf on (⁎˃ᆺ˂)</title>
-    <link>https://fadlun.me/tags/pdf/</link>
+    <link>https://alunux.github.io/tags/pdf/</link>
     <description>Recent content in Pdf on (⁎˃ᆺ˂)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Sun, 20 Jul 2014 20:19:07 +0700</lastBuildDate>
     
-	<atom:link href="https://fadlun.me/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alunux.github.io/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kompres Ukuran File PDF dengan Ghostscript</title>
-      <link>https://fadlun.me/post/kompres-ukuran-file-pdf-dengan-ghostscript/</link>
+      <link>https://alunux.github.io/post/kompres-ukuran-file-pdf-dengan-ghostscript/</link>
       <pubDate>Sun, 20 Jul 2014 20:19:07 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/kompres-ukuran-file-pdf-dengan-ghostscript/</guid>
+      <guid>https://alunux.github.io/post/kompres-ukuran-file-pdf-dengan-ghostscript/</guid>
       <description>Bismillahirrahmanirrahim.
 Saya ingin memberikan tips bagi Anda yang bermasalah dengan ukuran file PDF yang dimiliki. Contoh: Saya memiliki masalah dengan dokumen yang saya miliki dari hasil scanning. File yang dihasilkan sangat besar, padahal file ini nantinya akan saya upload ke sebuah website dengan syarat file berukuran tertentu.
 Untuk menyelesaikan masalah diatas, silahkan ikuti langkah-langkah berikut.

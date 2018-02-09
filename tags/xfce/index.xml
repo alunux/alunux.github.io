@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xfce on (⁎˃ᆺ˂)</title>
-    <link>https://fadlun.me/tags/xfce/</link>
+    <link>https://alunux.github.io/tags/xfce/</link>
     <description>Recent content in Xfce on (⁎˃ᆺ˂)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Thu, 09 Apr 2015 19:40:06 +0700</lastBuildDate>
     
-	<atom:link href="https://fadlun.me/tags/xfce/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alunux.github.io/tags/xfce/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Menginstall Xfce 4.12 Di Fedora 21 Workstation</title>
-      <link>https://fadlun.me/post/menginstall-xfce-4-12-di-fedora-21-workstation/</link>
+      <link>https://alunux.github.io/post/menginstall-xfce-4-12-di-fedora-21-workstation/</link>
       <pubDate>Thu, 09 Apr 2015 19:40:06 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/menginstall-xfce-4-12-di-fedora-21-workstation/</guid>
+      <guid>https://alunux.github.io/post/menginstall-xfce-4-12-di-fedora-21-workstation/</guid>
       <description>Bismillahirrahmanirrahim.
 [Chapter 1] Instalasi Paket-Paket Xfce 4.12
  Dalam chapter ini, semua tahap yang dilakukan akan memakai akun root. Buka terminal Anda, lalu ketikkan su -

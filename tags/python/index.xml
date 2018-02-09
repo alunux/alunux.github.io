@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on (⁎˃ᆺ˂)</title>
-    <link>https://fadlun.me/tags/python/</link>
+    <link>https://alunux.github.io/tags/python/</link>
     <description>Recent content in Python on (⁎˃ᆺ˂)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Thu, 09 Jun 2016 19:26:51 +0700</lastBuildDate>
     
-	<atom:link href="https://fadlun.me/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alunux.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mencoba xmlrpc (Python 3)</title>
-      <link>https://fadlun.me/post/xmlrpc_python/</link>
+      <link>https://alunux.github.io/post/xmlrpc_python/</link>
       <pubDate>Thu, 09 Jun 2016 19:26:51 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/xmlrpc_python/</guid>
+      <guid>https://alunux.github.io/post/xmlrpc_python/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Bismillahirrahmanirrahim.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;[TL;DR]&lt;/strong&gt;&lt;/p&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>Tugas: Sorting &amp; Perkalian Matrix</title>
-      <link>https://fadlun.me/post/python_perkalian_matrix/</link>
+      <link>https://alunux.github.io/post/python_perkalian_matrix/</link>
       <pubDate>Fri, 18 Mar 2016 06:25:26 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/python_perkalian_matrix/</guid>
+      <guid>https://alunux.github.io/post/python_perkalian_matrix/</guid>
       <description>Bismillahirrahmanirrahim.
 Source code
  versi python 2: https://github.com/alunux/Learn-Python/blob/master/tugas_pemlel.py
@@ -42,10 +42,10 @@ Source code
     
     <item>
       <title>Belajar Python dengan DNF: Menghitung Jumlah Paket Terinstal</title>
-      <link>https://fadlun.me/post/python_dnf_jumlah_paket/</link>
+      <link>https://alunux.github.io/post/python_dnf_jumlah_paket/</link>
       <pubDate>Wed, 17 Feb 2016 03:45:49 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/python_dnf_jumlah_paket/</guid>
+      <guid>https://alunux.github.io/post/python_dnf_jumlah_paket/</guid>
       <description>Bismillahirrahmanirrahim.
 Pada kesempatan kali ini kita akan mencoba menghitung jumlah paket yang terinstal pada Fedora dengan membandingkan hasil dari perintah query dari RPM dan skrip yang dibuat dengan memanfaatkan API dari DNF.
 [Cara 1] Menggunakan RPM

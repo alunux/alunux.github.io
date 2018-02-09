@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on (⁎˃ᆺ˂)</title>
-    <link>https://fadlun.me/post/</link>
+    <link>https://alunux.github.io/post/</link>
     <description>Recent content in Posts on (⁎˃ᆺ˂)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Mon, 03 Apr 2017 23:25:29 +0700</lastBuildDate>
     
-	<atom:link href="https://fadlun.me/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alunux.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Backup &amp; Restore Pengaturan Polari</title>
-      <link>https://fadlun.me/post/backup_restore_polari/</link>
+      <link>https://alunux.github.io/post/backup_restore_polari/</link>
       <pubDate>Mon, 03 Apr 2017 23:25:29 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/backup_restore_polari/</guid>
+      <guid>https://alunux.github.io/post/backup_restore_polari/</guid>
       <description>Polari 3.22.2
   Polari merupakan sebuah aplikasi klien IRC yang dikembangkan oleh proyek GNOME. Polari memiliki antarmuka yang sederhana, termasuk fitur-fiturnya. Walaupun demikian, fitur-fitur yang sering digunakan oleh kebanyakan pengguna IRC pada umumnya (konek ke server, masuk channel, dll) terdapat pada Polari. Sayangnya terdapat satu fitur yang hilang menurut saya, yaitu backup pengaturan yang telah disetel oleh pengguna, seperti daftar server beserta channel-channel yang telah dientri satu-persatu. Tentu ini sangat merepotkan sekali jika kita memiliki daftar channel yang banyak.</description>
     </item>
     
     <item>
       <title>Belajar DNF: Dasar Menginstal Sebuah Paket</title>
-      <link>https://fadlun.me/post/dnf_dasar_install/</link>
+      <link>https://alunux.github.io/post/dnf_dasar_install/</link>
       <pubDate>Mon, 03 Apr 2017 20:02:43 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/dnf_dasar_install/</guid>
+      <guid>https://alunux.github.io/post/dnf_dasar_install/</guid>
       <description>Bismillahirrahmanirrahim.
 Pada pembelajaran kali ini kita akan mempelajari cara instalasi paket menggunakan DNF. Ada beberapa syarat yang mesti kita penuhi sebelum kita memulai pembelajaran. Syarat:
  Distro linux berbasis RPM yang menggunakan DNF sebagai manajer paketnya. Saya sendiri menggunakan Fedora. DNF telah resmi menjadi manajer paket standar sejak Fedora 22 rilis;
@@ -38,10 +38,10 @@ Cukup jalankan perintah sudo dnf install namapaket.</description>
     
     <item>
       <title>Yang Saya Lakukan setelah Instal Fedora 25 Workstation</title>
-      <link>https://fadlun.me/post/f25_yang_dilakukan_setelah_install/</link>
+      <link>https://alunux.github.io/post/f25_yang_dilakukan_setelah_install/</link>
       <pubDate>Sun, 27 Nov 2016 16:11:48 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/f25_yang_dilakukan_setelah_install/</guid>
+      <guid>https://alunux.github.io/post/f25_yang_dilakukan_setelah_install/</guid>
       <description>Bismillahirrahmanirrahim.
 Spesifikasi laptop yang saya gunakan:
  ASUS A455L
@@ -59,10 +59,10 @@ Spesifikasi laptop yang saya gunakan:
     
     <item>
       <title>Auto Hide Scrollbar Di Atom (Atom Material UI Theme)</title>
-      <link>https://fadlun.me/post/atom_hide_scrollbar/</link>
+      <link>https://alunux.github.io/post/atom_hide_scrollbar/</link>
       <pubDate>Tue, 30 Aug 2016 23:23:48 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/atom_hide_scrollbar/</guid>
+      <guid>https://alunux.github.io/post/atom_hide_scrollbar/</guid>
       <description>Bismillahirrahmanirrahim.
 Pada postingan kali ini saya ingin berbagi tips bagi teman-teman pengguna penyunting teks Atom yang kurang suka dengan ukuran scrollbar yang agak besar atau tampilan scrollbar yang selalu nongol pada editor. Hasil akhirnya adalah scrollbar tidak akan tampil kecuali kita melakukan hover pada area vertical/horizontal scrollbar.
 Langkah pertama yaitu carilah lokasi direktori paket tema yang dipakai. Lokasi paket-paket yang terpasang pada Atom terletak di direktori ~/.atom/packages/. Karena saya memakai tema Atom Material, maka saya dapatkan direktorinya di ~/.</description>
@@ -70,10 +70,10 @@ Langkah pertama yaitu carilah lokasi direktori paket tema yang dipakai. Lokasi 
     
     <item>
       <title>Tampilan LibreOffice Di Fedora 24</title>
-      <link>https://fadlun.me/post/f24_tampilan_libreoffice/</link>
+      <link>https://alunux.github.io/post/f24_tampilan_libreoffice/</link>
       <pubDate>Thu, 18 Aug 2016 23:34:28 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/f24_tampilan_libreoffice/</guid>
+      <guid>https://alunux.github.io/post/f24_tampilan_libreoffice/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Bismillahirrahmanirrahim.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Sejak saat pertama kali saya melakukan pembaruan dari Fedora 23 ke Fedora 24, saya kurang suka dengan tampilan LibreOffice-nya yang memakai GTK3 secara default. Di Fedora 24, paket libreoffice-gtk3 merupakan paket standar dari aplikasi LibreOffice dan merupakan dependensi dari paket libreoffice-core. Jika kita menghapus paket libreoffice-gtk3, maka paket-paket LibreOffice lainnya juga akan ikut terhapus.&lt;/p&gt;
@@ -83,10 +83,10 @@ Langkah pertama yaitu carilah lokasi direktori paket tema yang dipakai. Lokasi 
     
     <item>
       <title>Mencoba xmlrpc (Python 3)</title>
-      <link>https://fadlun.me/post/xmlrpc_python/</link>
+      <link>https://alunux.github.io/post/xmlrpc_python/</link>
       <pubDate>Thu, 09 Jun 2016 19:26:51 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/xmlrpc_python/</guid>
+      <guid>https://alunux.github.io/post/xmlrpc_python/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Bismillahirrahmanirrahim.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;[TL;DR]&lt;/strong&gt;&lt;/p&gt;
@@ -98,10 +98,10 @@ Langkah pertama yaitu carilah lokasi direktori paket tema yang dipakai. Lokasi 
     
     <item>
       <title>Upgrade GNOME 3.20 di Fedora 23</title>
-      <link>https://fadlun.me/post/upgrade_gnome_fedora23/</link>
+      <link>https://alunux.github.io/post/upgrade_gnome_fedora23/</link>
       <pubDate>Mon, 06 Jun 2016 10:43:42 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/upgrade_gnome_fedora23/</guid>
+      <guid>https://alunux.github.io/post/upgrade_gnome_fedora23/</guid>
       <description>Bismillahirrahmanirrahim.
  Gambar: GNOME Control Settings - Details - Overview
   Beberapa waktu yang lalu saya membuild beberapa paket untuk anda yang ingin mencoba GNOME 3.20 di Fedora 23. Tidak ada jaminan keberhasilan dalam menggunakan paket-paket ini. Jadi apapun yang terjadi dengan komputer anda, maka sepenuhnya ditanggung oleh anda sendiri. Saya sendiri telah mencobanya dan berhasil melakukan pembaruan GNOME ke versi 3.20.
@@ -110,10 +110,10 @@ Buka terminal dan jalankan perintah-perintah berikut secara sistematis:</descrip
     
     <item>
       <title>Mengganti Alamat DNS Server di Fedora 23</title>
-      <link>https://fadlun.me/post/alamat_dns_fedora/</link>
+      <link>https://alunux.github.io/post/alamat_dns_fedora/</link>
       <pubDate>Thu, 02 Jun 2016 18:25:42 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/alamat_dns_fedora/</guid>
+      <guid>https://alunux.github.io/post/alamat_dns_fedora/</guid>
       <description>Bismillahirrahmanirrahim.
  Buka GNOME Control Settings  Gambar 1. Shortcut GNOME Control Setting pada GNOME Shell   Pilih menu Network  Gambar 2. Jendela GNOME Control Settings
   Pilih koneksi yang ingin diubah pengaturan DNSnya  Gambar 3. Pemilihan Koneksi
@@ -123,10 +123,10 @@ Buka terminal dan jalankan perintah-perintah berikut secara sistematis:</descrip
     
     <item>
       <title>Keperluan Printer Di Fedora 23</title>
-      <link>https://fadlun.me/post/f23_printer/</link>
+      <link>https://alunux.github.io/post/f23_printer/</link>
       <pubDate>Tue, 05 Apr 2016 05:18:08 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/f23_printer/</guid>
+      <guid>https://alunux.github.io/post/f23_printer/</guid>
       <description>Bismillahirrahmanirrahim.
  Buka terminal
  Jalankan perintah sudo dnf install cups system-config-printer gutenprint gutenprint-extras gutenprint-foomatic
@@ -137,10 +137,10 @@ Buka terminal dan jalankan perintah-perintah berikut secara sistematis:</descrip
     
     <item>
       <title>Tugas: Sorting &amp; Perkalian Matrix</title>
-      <link>https://fadlun.me/post/python_perkalian_matrix/</link>
+      <link>https://alunux.github.io/post/python_perkalian_matrix/</link>
       <pubDate>Fri, 18 Mar 2016 06:25:26 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/python_perkalian_matrix/</guid>
+      <guid>https://alunux.github.io/post/python_perkalian_matrix/</guid>
       <description>Bismillahirrahmanirrahim.
 Source code
  versi python 2: https://github.com/alunux/Learn-Python/blob/master/tugas_pemlel.py
@@ -150,10 +150,10 @@ Source code
     
     <item>
       <title>Fix Volume Lompat Menjadi 100%</title>
-      <link>https://fadlun.me/post/fix_voume_100/</link>
+      <link>https://alunux.github.io/post/fix_voume_100/</link>
       <pubDate>Tue, 15 Mar 2016 16:19:09 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/fix_voume_100/</guid>
+      <guid>https://alunux.github.io/post/fix_voume_100/</guid>
       <description>Bismillahirrahmanirrahim.
  sudo nano /etc/pulse/daemon.conf
  Hilangkan tanda titik-koma pada flat-volumes dan ubah nilainya menjadi no
@@ -164,10 +164,10 @@ Source code
     
     <item>
       <title>Belajar Python dengan DNF: Menghitung Jumlah Paket Terinstal</title>
-      <link>https://fadlun.me/post/python_dnf_jumlah_paket/</link>
+      <link>https://alunux.github.io/post/python_dnf_jumlah_paket/</link>
       <pubDate>Wed, 17 Feb 2016 03:45:49 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/python_dnf_jumlah_paket/</guid>
+      <guid>https://alunux.github.io/post/python_dnf_jumlah_paket/</guid>
       <description>Bismillahirrahmanirrahim.
 Pada kesempatan kali ini kita akan mencoba menghitung jumlah paket yang terinstal pada Fedora dengan membandingkan hasil dari perintah query dari RPM dan skrip yang dibuat dengan memanfaatkan API dari DNF.
 [Cara 1] Menggunakan RPM
@@ -177,10 +177,10 @@ Pada kesempatan kali ini kita akan mencoba menghitung jumlah paket yang terinsta
     
     <item>
       <title>Hapus Kernel Lama di Fedora dengan DNF</title>
-      <link>https://fadlun.me/post/dnf_hapus_kernel_lama_fedora/</link>
+      <link>https://alunux.github.io/post/dnf_hapus_kernel_lama_fedora/</link>
       <pubDate>Fri, 05 Feb 2016 12:34:50 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/dnf_hapus_kernel_lama_fedora/</guid>
+      <guid>https://alunux.github.io/post/dnf_hapus_kernel_lama_fedora/</guid>
       <description>Bismillahirrahmanirrahim.
 [Masalah]
 Sebelum Fedora menjadikan DNF sebagai manajer paketnya, kita dengan mudah dapat menghapus kernel lama beserta dependensinya yang tidak perlukan oleh paket lain dengan menggunakan perintah:
@@ -191,19 +191,19 @@ dnf remove kernel-core-* -x=kernel-core-$(uname -r) Sebelum menjalankan perintah
     
     <item>
       <title>Draft Perkenalan onerpm</title>
-      <link>https://fadlun.me/post/draft_perkenalan_onerpm/</link>
+      <link>https://alunux.github.io/post/draft_perkenalan_onerpm/</link>
       <pubDate>Thu, 28 Jan 2016 19:40:39 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/draft_perkenalan_onerpm/</guid>
+      <guid>https://alunux.github.io/post/draft_perkenalan_onerpm/</guid>
       <description>Download onerpm-slide</description>
     </item>
     
     <item>
       <title>Nautilus &#43; BTFS (bittorrent filesystem)</title>
-      <link>https://fadlun.me/post/nautilus_btfs/</link>
+      <link>https://alunux.github.io/post/nautilus_btfs/</link>
       <pubDate>Sun, 03 Jan 2016 15:55:36 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/nautilus_btfs/</guid>
+      <guid>https://alunux.github.io/post/nautilus_btfs/</guid>
       <description>Bismillahirrahmanirrahim.
 [Persiapan] 
 $ sudo dnf install fuse-devel rb_libtorrent-devel libcurl-devel fuse gvfs-fuse [Kompilasi]
@@ -216,10 +216,10 @@ $ sudo make uninstall [Pemakaian]
     
     <item>
       <title>Intel® Graphics Installer 1.2.0 for Linux (Fedora 22)</title>
-      <link>https://fadlun.me/post/intel_graphics_intaller/</link>
+      <link>https://alunux.github.io/post/intel_graphics_intaller/</link>
       <pubDate>Thu, 17 Sep 2015 19:50:56 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/intel_graphics_intaller/</guid>
+      <guid>https://alunux.github.io/post/intel_graphics_intaller/</guid>
       <description>Bismillahirrahmanirrahim
  Buka terminal, jalankan perintah-perintah berikut:  wget &amp;ndash;no-check-certificate https://download.01.org/gfx/RPM-GPG-KEY-ilg ; sudo rpm &amp;ndash;import RPM-GPG-KEY-ilg wget &amp;ndash;no-check-certificate https://download.01.org/gfx/RPM-GPG-KEY-ilg-2 ; sudo rpm &amp;ndash;import RPM-GPG-KEY-ilg-2  Unduh berkas RPMnya:  intel-linux-graphics-installer-1.2.0-22.intel20152.i686.rpm (32-bit)
  intel-linux-graphics-installer-1.2.0-22.intel20152.x86_64.rpm (64-bit)
@@ -230,22 +230,22 @@ $ sudo make uninstall [Pemakaian]
     
     <item>
       <title>Boot ISO Fedora 22 via Grub (Ubuntu 14.04)</title>
-      <link>https://fadlun.me/post/boot-iso-fedora-22-via-grub-ubuntu-14-04/</link>
+      <link>https://alunux.github.io/post/boot-iso-fedora-22-via-grub-ubuntu-14-04/</link>
       <pubDate>Thu, 17 Sep 2015 18:42:01 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/boot-iso-fedora-22-via-grub-ubuntu-14-04/</guid>
+      <guid>https://alunux.github.io/post/boot-iso-fedora-22-via-grub-ubuntu-14-04/</guid>
       <description>Bismillahirrahmanirrahim.
  Buka berkas /etc/grub.d/40_custom dalam mode root (di sini saya menggunakan gedit). Command: sudo gedit /etc/grub.d/40_custom
  Tambahkan entri baru di baris paling bawah. Isinya seperti ini:
-menuentry &#34;Fedora 22 ISO&#34; --class fedora { set isoname=&#34;Fedora-Live-Workstation-i686-22-3.iso&#34; set isopath=&#34;/home/poros/Downloads/&#34; set isofile=&#34;${isopath}/${isoname}&#34; echo &#34;Using ${isoname}...&#34; loopback loop (hd0,8)$isofile linux (loop)/isolinux/vmlinuz0 iso-scan/filename=${isofile} root=live:CDLABEL=Fedora-Live-WS-i686-22-3 rootfstype=auto ro rd.live.image quiet rhgb rd.luks=0 rd.md=0 rd.dm=0 initrd (loop)/isolinux/initrd0.img } Ubah nilai isoname sesuai dengan nama ISO Fedora yang kamu punya, di sini saya punya Fedora-Live-Workstation-i686-22-3.</description>
+menuentry &amp;#34;Fedora 22 ISO&amp;#34; --class fedora { set isoname=&amp;#34;Fedora-Live-Workstation-i686-22-3.iso&amp;#34; set isopath=&amp;#34;/home/poros/Downloads/&amp;#34; set isofile=&amp;#34;${isopath}/${isoname}&amp;#34; echo &amp;#34;Using ${isoname}...&amp;#34; loopback loop (hd0,8)$isofile linux (loop)/isolinux/vmlinuz0 iso-scan/filename=${isofile} root=live:CDLABEL=Fedora-Live-WS-i686-22-3 rootfstype=auto ro rd.live.image quiet rhgb rd.luks=0 rd.md=0 rd.dm=0 initrd (loop)/isolinux/initrd0.img } Ubah nilai isoname sesuai dengan nama ISO Fedora yang kamu punya, di sini saya punya Fedora-Live-Workstation-i686-22-3.</description>
     </item>
     
     <item>
       <title>Mengatasi Error Debootstrap di Fedora 22: E: Error executing gpgv to check Release signature</title>
-      <link>https://fadlun.me/post/mengatasi-error-debootstrap-di-fedora-22/</link>
+      <link>https://alunux.github.io/post/mengatasi-error-debootstrap-di-fedora-22/</link>
       <pubDate>Fri, 04 Sep 2015 16:01:43 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/mengatasi-error-debootstrap-di-fedora-22/</guid>
+      <guid>https://alunux.github.io/post/mengatasi-error-debootstrap-di-fedora-22/</guid>
       <description>Bismillahirrahmanirrahim.
 Beberapa waktu yang lalu saya membuat sebuah container sederhana menggunakan systemd-nspawn untuk keperluan nyoba-nyoba aplikasi di debian/ubuntu, salah satunya alldeb. Ketika saya menjalankan debootstrap, saya mendapatkan pesan error sebagai berikut.
  Pesan error: Error executing gpgv to check Release signature. Setelah dicek, ternyata software bernama gpgv belum terpasang (adanya gpgv2). gpgv tersedia dalam paket gnupg. Jalankan &amp;ldquo;sudo dnf install gnupg&amp;rdquo; untuk mendapatkan gpgv. Setelah instalasi selesai, jalankan kembali perintah debootstrap.</description>
@@ -253,10 +253,10 @@ Beberapa waktu yang lalu saya membuat sebuah container sederhana menggunakan sys
     
     <item>
       <title>Instalasi Fedora 22 Minimal &#43; GNOME Minimal (Catatan Kasar)</title>
-      <link>https://fadlun.me/post/instalasi-fedora-22-minimal-gnome-minimal-catatan-kasar/</link>
+      <link>https://alunux.github.io/post/instalasi-fedora-22-minimal-gnome-minimal-catatan-kasar/</link>
       <pubDate>Tue, 18 Aug 2015 11:06:27 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/instalasi-fedora-22-minimal-gnome-minimal-catatan-kasar/</guid>
+      <guid>https://alunux.github.io/post/instalasi-fedora-22-minimal-gnome-minimal-catatan-kasar/</guid>
       <description>Bismillahirrahmanirrahim.
 [Chapter 1] Sebelum Instalasi
  Download paket NetworkManager-wifi untuk mengakses internet via jaringan wifi: Download 64-bit Download 32-bit
@@ -270,10 +270,10 @@ Beberapa waktu yang lalu saya membuat sebuah container sederhana menggunakan sys
     
     <item>
       <title>Perkenalan Singkat ONERPM</title>
-      <link>https://fadlun.me/post/perkenalan-singkat-onerpm/</link>
+      <link>https://alunux.github.io/post/perkenalan-singkat-onerpm/</link>
       <pubDate>Mon, 17 Aug 2015 00:40:51 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/perkenalan-singkat-onerpm/</guid>
+      <guid>https://alunux.github.io/post/perkenalan-singkat-onerpm/</guid>
       <description>Bismillahirrahmanirrahim.
 Alhamdulillah, salah satu proyek liburan saya telah rampung sekitar 57%. Proyek tersebut bernama ONERPM. Apa itu ONERPM? ONERPM adalah sebuah bash script sederhana berbasis DNF yang berguna untuk memudahkan pemasangan sebuah paket aplikasi di Fedora secara offline. Proyek ONERPM ini terinspirasi dari proyek alldeb buatan Nifa Dwi Kurniawan dan Fedora Offline Package Manager.
 [Chapter 1] Konsep Pemaketan ONERPM
@@ -282,10 +282,10 @@ ONERPM mempunyai paket tersendiri untuk melakukan pemasangan paket aplikasi ke s
     
     <item>
       <title>Mengecilkan Titlebar Fedora 22 Workstation</title>
-      <link>https://fadlun.me/post/mengecilkan-titlebar-fedora-22-workstation/</link>
+      <link>https://alunux.github.io/post/mengecilkan-titlebar-fedora-22-workstation/</link>
       <pubDate>Sat, 13 Jun 2015 13:30:57 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/mengecilkan-titlebar-fedora-22-workstation/</guid>
+      <guid>https://alunux.github.io/post/mengecilkan-titlebar-fedora-22-workstation/</guid>
       <description>Bismillahirrahmanirrahim.
  Tekan Alt + F2 pada keyboard. Isi dengan gedit .config/gtk-3.0/gtk.css pada kotak isian yang muncul lalu tekan enter.
   Setelah Gedit terbuka, isilah dengan:
@@ -298,10 +298,10 @@ ONERPM mempunyai paket tersendiri untuk melakukan pemasangan paket aplikasi ke s
     
     <item>
       <title>Belajar DNF : Pengantar</title>
-      <link>https://fadlun.me/post/belajar-dnf-pengantar/</link>
+      <link>https://alunux.github.io/post/belajar-dnf-pengantar/</link>
       <pubDate>Wed, 10 Jun 2015 17:05:08 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/belajar-dnf-pengantar/</guid>
+      <guid>https://alunux.github.io/post/belajar-dnf-pengantar/</guid>
       <description>Bismillahirrahmanirrahim.
 Menurut saya, sistem manajemen paket merupakan hal yang wajib dipelajari ketika kita pertama kali mencoba distro linux. Kebanyakan distro linux mempunyai manajemen paket yang berbeda-beda tapi ada juga yang sama. Jika distro tersebut adalah distro turunan, maka biasanya manajer paket yang dipakai adalah manajer paket yang dipakai oleh distro induk. Fedora memakai DNF sebagai manajer paket default.
 Deskripsi
@@ -310,20 +310,20 @@ Apa itu DNF? DNF merupakan singkatan dari Dandified YUM, adalah sebuah manajer p
     
     <item>
       <title>Xubuntu Untuk Laptop ASUS A455L</title>
-      <link>https://fadlun.me/post/xubuntu-untuk-laptop-asus-a455l/</link>
+      <link>https://alunux.github.io/post/xubuntu-untuk-laptop-asus-a455l/</link>
       <pubDate>Mon, 11 May 2015 16:53:15 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/xubuntu-untuk-laptop-asus-a455l/</guid>
+      <guid>https://alunux.github.io/post/xubuntu-untuk-laptop-asus-a455l/</guid>
       <description>Bismillahirrahmanirrahim.
 Alhamdulillah, beberapa waktu yang lalu saya menemukan distro linux yang cocok untuk laptop ASUS A455L. Distro tersebut adalah elementaryOS Freya 64-bit dan Xubuntu 15.04 Vivid Vervet 64-bit. Pengenalan perangkat keras dilaksanakan dengan baik oleh kedua distro tersebut. Spesifikasi perangkat kerasnya adalah sebagai berikut:  Prosesor : Intel Core i3-4030U 1.9 GHz RAM : 2 GB Harddisk : 500 GB VGA : Intel + Nvidia Geforce 820M.  elementaryOS membutuhkan PPA untuk mendeteksi dan memasang driver Nvidia.</description>
     </item>
     
     <item>
       <title>Menginstall Xfce 4.12 Di Fedora 21 Workstation</title>
-      <link>https://fadlun.me/post/menginstall-xfce-4-12-di-fedora-21-workstation/</link>
+      <link>https://alunux.github.io/post/menginstall-xfce-4-12-di-fedora-21-workstation/</link>
       <pubDate>Thu, 09 Apr 2015 19:40:06 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/menginstall-xfce-4-12-di-fedora-21-workstation/</guid>
+      <guid>https://alunux.github.io/post/menginstall-xfce-4-12-di-fedora-21-workstation/</guid>
       <description>Bismillahirrahmanirrahim.
 [Chapter 1] Instalasi Paket-Paket Xfce 4.12
  Dalam chapter ini, semua tahap yang dilakukan akan memakai akun root. Buka terminal Anda, lalu ketikkan su -
@@ -333,10 +333,10 @@ Alhamdulillah, beberapa waktu yang lalu saya menemukan distro linux yang cocok u
     
     <item>
       <title>Install, Uninstall, Dan Update Software Di Fedora</title>
-      <link>https://fadlun.me/post/install-uninstall-dan-update-software-di-fedora/</link>
+      <link>https://alunux.github.io/post/install-uninstall-dan-update-software-di-fedora/</link>
       <pubDate>Fri, 31 Oct 2014 16:00:48 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/install-uninstall-dan-update-software-di-fedora/</guid>
+      <guid>https://alunux.github.io/post/install-uninstall-dan-update-software-di-fedora/</guid>
       <description>Bismillahirrahmanirrahim.
 [Chapter 1] Install Paket atau Software Menginstal paket di Fedora sangatlah mudah untuk dilakukan. Jika kita mengetahui nama suatu paket dengan benar, maka cukup dengan mengetikkan perintah yum install namapaket dalam mode root. Di sini saya juga akan menjelaskan cara mencari suatu paket berdasarkan sedikit informasi tentang paket yang diinginkan dan melihat deskripsi suatu paket.
  Jika kita memiliki informasi mengenai suatu paket yang kita tidak tahu namanya, maka kita dapat memakai perintah yum search namapaket atau yum search infopaket atau yum search info1 | grep info2.</description>
@@ -344,10 +344,10 @@ Alhamdulillah, beberapa waktu yang lalu saya menemukan distro linux yang cocok u
     
     <item>
       <title>Tugas Tantangan 1 [Sistem Operasi]</title>
-      <link>https://fadlun.me/post/tugas-tantangan-1-sistem-operasi/</link>
+      <link>https://alunux.github.io/post/tugas-tantangan-1-sistem-operasi/</link>
       <pubDate>Thu, 18 Sep 2014 06:52:36 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/tugas-tantangan-1-sistem-operasi/</guid>
+      <guid>https://alunux.github.io/post/tugas-tantangan-1-sistem-operasi/</guid>
       <description>Bismillahirrahmanirrahim.
 Postingan ini bertujuan untuk memenuhi tugas praktikum mata kuliah Sistem Operasi. Adapun tantangan yang diberikan:
 Screenshot login screen dengan nama user masing-masing, instal aplikasi tambahan melalui terminal, screenshot syntax, proses dan hasil, jalankan aplikasi Line dari windows screenshot fullscreen.  [Chapter 1] Mengambil Screenshot Login Screen
@@ -356,20 +356,20 @@ Untuk mengambil screenshot login screen yang muncul, saya membutuhkan bantuan ap
     
     <item>
       <title>Mencoba Arch Linux </title>
-      <link>https://fadlun.me/post/mencoba-arch-linux/</link>
+      <link>https://alunux.github.io/post/mencoba-arch-linux/</link>
       <pubDate>Tue, 16 Sep 2014 05:23:25 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/mencoba-arch-linux/</guid>
+      <guid>https://alunux.github.io/post/mencoba-arch-linux/</guid>
       <description>Bismillahirrahmanirrahim.
 Kemarin (15-09-14) dan hari ini (16-09-14) saya menyelesaikan proses instalasi Arch Linux di laptop saya. Sebelumnya sudah ada distro Fedora yang sudah tinggal cukup lama. Sudah hampir setahun (mungkin lebih) Fedora belum mengeluarkan rilis terbaru miliknya. Ini berkaitan dengan proyek terbaru Fedora yang bernama Fedora.Next. Fedora.Next ini memiliki 3 fokus, yakni Fedora Server, Fedora Cloud, Fedora Workstation. Fedora Workstation inilah yang nanti menjadi distro untuk para pengguna desktop. Sayangnya, jadwal perilisan Fedora terus mengalami kemunduran.</description>
     </item>
     
     <item>
       <title>Keganjilan Evince? CUPS? Kekeliruan Saat Print</title>
-      <link>https://fadlun.me/post/keganjilan-evince-cups-kekeliruan-saat-print/</link>
+      <link>https://alunux.github.io/post/keganjilan-evince-cups-kekeliruan-saat-print/</link>
       <pubDate>Tue, 16 Sep 2014 04:45:12 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/keganjilan-evince-cups-kekeliruan-saat-print/</guid>
+      <guid>https://alunux.github.io/post/keganjilan-evince-cups-kekeliruan-saat-print/</guid>
       <description>Bismillahirrahmanirrahim.
 Sudah lama saya tidak menulis kejadian-kejadian apa saja yang telah terjadi di komputer saya. Alhamdulillah, semangat menulis itu muncul kembali.
 Pada kesempatan kali ini saya ingin menceritakan pengalaman saya saat memakai software pembaca file PDF Evince (software bawaan Fedora dengan DE Gnome) dan printer Canon PIXMA MP-237. Jujur, saya tidak tahu harus memberikan judul apa yang tepat untuk tulisan ini. Pengalaman ini sudah pernah saya bagikan sebelumnya di grup FB Komunitas Fedora Indonesia.</description>
@@ -377,10 +377,10 @@ Pada kesempatan kali ini saya ingin menceritakan pengalaman saya saat memakai so
     
     <item>
       <title>Kompres Ukuran File PDF dengan Ghostscript</title>
-      <link>https://fadlun.me/post/kompres-ukuran-file-pdf-dengan-ghostscript/</link>
+      <link>https://alunux.github.io/post/kompres-ukuran-file-pdf-dengan-ghostscript/</link>
       <pubDate>Sun, 20 Jul 2014 20:19:07 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/kompres-ukuran-file-pdf-dengan-ghostscript/</guid>
+      <guid>https://alunux.github.io/post/kompres-ukuran-file-pdf-dengan-ghostscript/</guid>
       <description>Bismillahirrahmanirrahim.
 Saya ingin memberikan tips bagi Anda yang bermasalah dengan ukuran file PDF yang dimiliki. Contoh: Saya memiliki masalah dengan dokumen yang saya miliki dari hasil scanning. File yang dihasilkan sangat besar, padahal file ini nantinya akan saya upload ke sebuah website dengan syarat file berukuran tertentu.
 Untuk menyelesaikan masalah diatas, silahkan ikuti langkah-langkah berikut.
@@ -390,10 +390,10 @@ Untuk menyelesaikan masalah diatas, silahkan ikuti langkah-langkah berikut.
     
     <item>
       <title>Install Driver Printer Canon PIXMA MP-237 Di Fedora 20 64 bit</title>
-      <link>https://fadlun.me/post/install-driver-printer-canon-pixma-mp-237-di-fedora-20-64-bit/</link>
+      <link>https://alunux.github.io/post/install-driver-printer-canon-pixma-mp-237-di-fedora-20-64-bit/</link>
       <pubDate>Sun, 20 Jul 2014 20:17:37 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/install-driver-printer-canon-pixma-mp-237-di-fedora-20-64-bit/</guid>
+      <guid>https://alunux.github.io/post/install-driver-printer-canon-pixma-mp-237-di-fedora-20-64-bit/</guid>
       <description>Bismillahirrahmanirrahim.
  Download paket drivernya terlebih dahulu di website resmi Canon. Klik Di Sini.
  Buka terminal dan login sebagai root. Command: su -
@@ -403,10 +403,10 @@ Name: libtiff_so3_link Version: 1.0 Release: 1%{?dist} Summary: Symlink from lib
     
     <item>
       <title>Berkenalan Dengan Fedora Spins</title>
-      <link>https://fadlun.me/post/berkenalan-dengan-fedora-spins/</link>
+      <link>https://alunux.github.io/post/berkenalan-dengan-fedora-spins/</link>
       <pubDate>Sun, 20 Jul 2014 20:14:35 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/berkenalan-dengan-fedora-spins/</guid>
+      <guid>https://alunux.github.io/post/berkenalan-dengan-fedora-spins/</guid>
       <description>Apakah spin itu? Fedora spin adalah versi alternatif dari Fedora, disesuaikan untuk berbagai jenis pengguna dengan memilih aplikasinya sendiri dan kostumisasi yang lain. Spin pertama tersedia bersamaan dengan rilis Fedora 7 pada Mei 2007. Proses pembuatan Spin dan perbaikan Spin dikelola oleh Fedora Spins SIG. (Sumber: http://spins.fedoraproject.org/id/about)
 Kalau Anda adalah pengguna Ubuntu maka Anda pastinya tidak asing dengan berbagai varian Ubuntu, seperti Kubuntu, Ubuntu GNOME, Xubuntu, Lubuntu, dan Edubuntu. Fedora Spins diciptakan untuk memudahkan pekerjaan dengan seseorang dengan kebutuhan spesifik.</description>
     </item>

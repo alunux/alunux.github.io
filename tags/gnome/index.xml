@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gnome on (⁎˃ᆺ˂)</title>
-    <link>https://fadlun.me/tags/gnome/</link>
+    <link>https://alunux.github.io/tags/gnome/</link>
     <description>Recent content in Gnome on (⁎˃ᆺ˂)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Mon, 03 Apr 2017 23:25:29 +0700</lastBuildDate>
     
-	<atom:link href="https://fadlun.me/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alunux.github.io/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Backup &amp; Restore Pengaturan Polari</title>
-      <link>https://fadlun.me/post/backup_restore_polari/</link>
+      <link>https://alunux.github.io/post/backup_restore_polari/</link>
       <pubDate>Mon, 03 Apr 2017 23:25:29 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/backup_restore_polari/</guid>
+      <guid>https://alunux.github.io/post/backup_restore_polari/</guid>
       <description>Polari 3.22.2
   Polari merupakan sebuah aplikasi klien IRC yang dikembangkan oleh proyek GNOME. Polari memiliki antarmuka yang sederhana, termasuk fitur-fiturnya. Walaupun demikian, fitur-fitur yang sering digunakan oleh kebanyakan pengguna IRC pada umumnya (konek ke server, masuk channel, dll) terdapat pada Polari. Sayangnya terdapat satu fitur yang hilang menurut saya, yaitu backup pengaturan yang telah disetel oleh pengguna, seperti daftar server beserta channel-channel yang telah dientri satu-persatu. Tentu ini sangat merepotkan sekali jika kita memiliki daftar channel yang banyak.</description>
     </item>
     
     <item>
       <title>Upgrade GNOME 3.20 di Fedora 23</title>
-      <link>https://fadlun.me/post/upgrade_gnome_fedora23/</link>
+      <link>https://alunux.github.io/post/upgrade_gnome_fedora23/</link>
       <pubDate>Mon, 06 Jun 2016 10:43:42 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/upgrade_gnome_fedora23/</guid>
+      <guid>https://alunux.github.io/post/upgrade_gnome_fedora23/</guid>
       <description>Bismillahirrahmanirrahim.
  Gambar: GNOME Control Settings - Details - Overview
   Beberapa waktu yang lalu saya membuild beberapa paket untuk anda yang ingin mencoba GNOME 3.20 di Fedora 23. Tidak ada jaminan keberhasilan dalam menggunakan paket-paket ini. Jadi apapun yang terjadi dengan komputer anda, maka sepenuhnya ditanggung oleh anda sendiri. Saya sendiri telah mencobanya dan berhasil melakukan pembaruan GNOME ke versi 3.20.
@@ -36,10 +36,10 @@ Buka terminal dan jalankan perintah-perintah berikut secara sistematis:</descrip
     
     <item>
       <title>Instalasi Fedora 22 Minimal &#43; GNOME Minimal (Catatan Kasar)</title>
-      <link>https://fadlun.me/post/instalasi-fedora-22-minimal-gnome-minimal-catatan-kasar/</link>
+      <link>https://alunux.github.io/post/instalasi-fedora-22-minimal-gnome-minimal-catatan-kasar/</link>
       <pubDate>Tue, 18 Aug 2015 11:06:27 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/instalasi-fedora-22-minimal-gnome-minimal-catatan-kasar/</guid>
+      <guid>https://alunux.github.io/post/instalasi-fedora-22-minimal-gnome-minimal-catatan-kasar/</guid>
       <description>Bismillahirrahmanirrahim.
 [Chapter 1] Sebelum Instalasi
  Download paket NetworkManager-wifi untuk mengakses internet via jaringan wifi: Download 64-bit Download 32-bit
@@ -53,10 +53,10 @@ Buka terminal dan jalankan perintah-perintah berikut secara sistematis:</descrip
     
     <item>
       <title>Mengecilkan Titlebar Fedora 22 Workstation</title>
-      <link>https://fadlun.me/post/mengecilkan-titlebar-fedora-22-workstation/</link>
+      <link>https://alunux.github.io/post/mengecilkan-titlebar-fedora-22-workstation/</link>
       <pubDate>Sat, 13 Jun 2015 13:30:57 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/mengecilkan-titlebar-fedora-22-workstation/</guid>
+      <guid>https://alunux.github.io/post/mengecilkan-titlebar-fedora-22-workstation/</guid>
       <description>Bismillahirrahmanirrahim.
  Tekan Alt + F2 pada keyboard. Isi dengan gedit .config/gtk-3.0/gtk.css pada kotak isian yang muncul lalu tekan enter.
   Setelah Gedit terbuka, isilah dengan:
@@ -69,10 +69,10 @@ Buka terminal dan jalankan perintah-perintah berikut secara sistematis:</descrip
     
     <item>
       <title>Tugas Tantangan 1 [Sistem Operasi]</title>
-      <link>https://fadlun.me/post/tugas-tantangan-1-sistem-operasi/</link>
+      <link>https://alunux.github.io/post/tugas-tantangan-1-sistem-operasi/</link>
       <pubDate>Thu, 18 Sep 2014 06:52:36 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/tugas-tantangan-1-sistem-operasi/</guid>
+      <guid>https://alunux.github.io/post/tugas-tantangan-1-sistem-operasi/</guid>
       <description>Bismillahirrahmanirrahim.
 Postingan ini bertujuan untuk memenuhi tugas praktikum mata kuliah Sistem Operasi. Adapun tantangan yang diberikan:
 Screenshot login screen dengan nama user masing-masing, instal aplikasi tambahan melalui terminal, screenshot syntax, proses dan hasil, jalankan aplikasi Line dari windows screenshot fullscreen.  [Chapter 1] Mengambil Screenshot Login Screen

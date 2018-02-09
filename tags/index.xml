@@ -2,292 +2,292 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on (⁎˃ᆺ˂)</title>
-    <link>https://fadlun.me/tags/</link>
+    <link>https://alunux.github.io/tags/</link>
     <description>Recent content in Tags on (⁎˃ᆺ˂)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Thu, 18 Sep 2014 06:52:36 +0700</lastBuildDate>
     
-	<atom:link href="https://fadlun.me/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alunux.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Arch Linux</title>
-      <link>https://fadlun.me/tags/arch-linux/</link>
+      <link>https://alunux.github.io/tags/arch-linux/</link>
       <pubDate>Thu, 18 Sep 2014 06:52:36 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/arch-linux/</guid>
+      <guid>https://alunux.github.io/tags/arch-linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atom</title>
-      <link>https://fadlun.me/tags/atom/</link>
+      <link>https://alunux.github.io/tags/atom/</link>
       <pubDate>Tue, 30 Aug 2016 23:23:48 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/atom/</guid>
+      <guid>https://alunux.github.io/tags/atom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cups</title>
-      <link>https://fadlun.me/tags/cups/</link>
+      <link>https://alunux.github.io/tags/cups/</link>
       <pubDate>Tue, 16 Sep 2014 04:45:12 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/cups/</guid>
+      <guid>https://alunux.github.io/tags/cups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Debootstrap</title>
-      <link>https://fadlun.me/tags/debootstrap/</link>
+      <link>https://alunux.github.io/tags/debootstrap/</link>
       <pubDate>Fri, 04 Sep 2015 16:01:43 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/debootstrap/</guid>
+      <guid>https://alunux.github.io/tags/debootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dnf</title>
-      <link>https://fadlun.me/tags/dnf/</link>
+      <link>https://alunux.github.io/tags/dnf/</link>
       <pubDate>Mon, 03 Apr 2017 20:02:43 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/dnf/</guid>
+      <guid>https://alunux.github.io/tags/dnf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dns</title>
-      <link>https://fadlun.me/tags/dns/</link>
+      <link>https://alunux.github.io/tags/dns/</link>
       <pubDate>Thu, 02 Jun 2016 18:25:42 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/dns/</guid>
+      <guid>https://alunux.github.io/tags/dns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Driver</title>
-      <link>https://fadlun.me/tags/driver/</link>
+      <link>https://alunux.github.io/tags/driver/</link>
       <pubDate>Thu, 17 Sep 2015 19:50:56 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/driver/</guid>
+      <guid>https://alunux.github.io/tags/driver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evince</title>
-      <link>https://fadlun.me/tags/evince/</link>
+      <link>https://alunux.github.io/tags/evince/</link>
       <pubDate>Tue, 16 Sep 2014 04:45:12 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/evince/</guid>
+      <guid>https://alunux.github.io/tags/evince/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fedora</title>
-      <link>https://fadlun.me/tags/fedora/</link>
+      <link>https://alunux.github.io/tags/fedora/</link>
       <pubDate>Mon, 03 Apr 2017 23:25:29 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/fedora/</guid>
+      <guid>https://alunux.github.io/tags/fedora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ghostscript</title>
-      <link>https://fadlun.me/tags/ghostscript/</link>
+      <link>https://alunux.github.io/tags/ghostscript/</link>
       <pubDate>Sun, 20 Jul 2014 20:19:07 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/ghostscript/</guid>
+      <guid>https://alunux.github.io/tags/ghostscript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gnome</title>
-      <link>https://fadlun.me/tags/gnome/</link>
+      <link>https://alunux.github.io/tags/gnome/</link>
       <pubDate>Mon, 03 Apr 2017 23:25:29 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/gnome/</guid>
+      <guid>https://alunux.github.io/tags/gnome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gpg</title>
-      <link>https://fadlun.me/tags/gpg/</link>
+      <link>https://alunux.github.io/tags/gpg/</link>
       <pubDate>Fri, 04 Sep 2015 16:01:43 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/gpg/</guid>
+      <guid>https://alunux.github.io/tags/gpg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grub</title>
-      <link>https://fadlun.me/tags/grub/</link>
+      <link>https://alunux.github.io/tags/grub/</link>
       <pubDate>Thu, 17 Sep 2015 18:42:01 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/grub/</guid>
+      <guid>https://alunux.github.io/tags/grub/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gtk&#43;</title>
-      <link>https://fadlun.me/tags/gtk&#43;/</link>
+      <link>https://alunux.github.io/tags/gtk&#43;/</link>
       <pubDate>Thu, 18 Aug 2016 23:34:28 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/gtk&#43;/</guid>
+      <guid>https://alunux.github.io/tags/gtk&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intel</title>
-      <link>https://fadlun.me/tags/intel/</link>
+      <link>https://alunux.github.io/tags/intel/</link>
       <pubDate>Thu, 17 Sep 2015 19:50:56 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/intel/</guid>
+      <guid>https://alunux.github.io/tags/intel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Irc</title>
-      <link>https://fadlun.me/tags/irc/</link>
+      <link>https://alunux.github.io/tags/irc/</link>
       <pubDate>Mon, 03 Apr 2017 23:25:29 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/irc/</guid>
+      <guid>https://alunux.github.io/tags/irc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kernel</title>
-      <link>https://fadlun.me/tags/kernel/</link>
+      <link>https://alunux.github.io/tags/kernel/</link>
       <pubDate>Fri, 05 Feb 2016 12:34:50 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/kernel/</guid>
+      <guid>https://alunux.github.io/tags/kernel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Libreoffice</title>
-      <link>https://fadlun.me/tags/libreoffice/</link>
+      <link>https://alunux.github.io/tags/libreoffice/</link>
       <pubDate>Thu, 18 Aug 2016 23:34:28 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/libreoffice/</guid>
+      <guid>https://alunux.github.io/tags/libreoffice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nautilus</title>
-      <link>https://fadlun.me/tags/nautilus/</link>
+      <link>https://alunux.github.io/tags/nautilus/</link>
       <pubDate>Sun, 03 Jan 2016 15:55:36 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/nautilus/</guid>
+      <guid>https://alunux.github.io/tags/nautilus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network</title>
-      <link>https://fadlun.me/tags/network/</link>
+      <link>https://alunux.github.io/tags/network/</link>
       <pubDate>Thu, 09 Jun 2016 19:26:51 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/network/</guid>
+      <guid>https://alunux.github.io/tags/network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pdf</title>
-      <link>https://fadlun.me/tags/pdf/</link>
+      <link>https://alunux.github.io/tags/pdf/</link>
       <pubDate>Sun, 20 Jul 2014 20:19:07 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/pdf/</guid>
+      <guid>https://alunux.github.io/tags/pdf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Printer</title>
-      <link>https://fadlun.me/tags/printer/</link>
+      <link>https://alunux.github.io/tags/printer/</link>
       <pubDate>Tue, 05 Apr 2016 05:18:08 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/printer/</guid>
+      <guid>https://alunux.github.io/tags/printer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>https://fadlun.me/tags/programming/</link>
+      <link>https://alunux.github.io/tags/programming/</link>
       <pubDate>Tue, 30 Aug 2016 23:23:48 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/programming/</guid>
+      <guid>https://alunux.github.io/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pulseaudio</title>
-      <link>https://fadlun.me/tags/pulseaudio/</link>
+      <link>https://alunux.github.io/tags/pulseaudio/</link>
       <pubDate>Tue, 15 Mar 2016 16:19:09 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/pulseaudio/</guid>
+      <guid>https://alunux.github.io/tags/pulseaudio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://fadlun.me/tags/python/</link>
+      <link>https://alunux.github.io/tags/python/</link>
       <pubDate>Thu, 09 Jun 2016 19:26:51 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/python/</guid>
+      <guid>https://alunux.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rpm</title>
-      <link>https://fadlun.me/tags/rpm/</link>
+      <link>https://alunux.github.io/tags/rpm/</link>
       <pubDate>Mon, 03 Apr 2017 20:02:43 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/rpm/</guid>
+      <guid>https://alunux.github.io/tags/rpm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text Editor</title>
-      <link>https://fadlun.me/tags/text-editor/</link>
+      <link>https://alunux.github.io/tags/text-editor/</link>
       <pubDate>Tue, 30 Aug 2016 23:23:48 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/text-editor/</guid>
+      <guid>https://alunux.github.io/tags/text-editor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Torrent</title>
-      <link>https://fadlun.me/tags/torrent/</link>
+      <link>https://alunux.github.io/tags/torrent/</link>
       <pubDate>Sun, 03 Jan 2016 15:55:36 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/torrent/</guid>
+      <guid>https://alunux.github.io/tags/torrent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ubuntu</title>
-      <link>https://fadlun.me/tags/ubuntu/</link>
+      <link>https://alunux.github.io/tags/ubuntu/</link>
       <pubDate>Thu, 17 Sep 2015 18:42:01 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/ubuntu/</guid>
+      <guid>https://alunux.github.io/tags/ubuntu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xfce</title>
-      <link>https://fadlun.me/tags/xfce/</link>
+      <link>https://alunux.github.io/tags/xfce/</link>
       <pubDate>Thu, 09 Apr 2015 19:40:06 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/xfce/</guid>
+      <guid>https://alunux.github.io/tags/xfce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xubuntu</title>
-      <link>https://fadlun.me/tags/xubuntu/</link>
+      <link>https://alunux.github.io/tags/xubuntu/</link>
       <pubDate>Mon, 11 May 2015 16:53:15 +0700</pubDate>
       
-      <guid>https://fadlun.me/tags/xubuntu/</guid>
+      <guid>https://alunux.github.io/tags/xubuntu/</guid>
       <description></description>
     </item>
     

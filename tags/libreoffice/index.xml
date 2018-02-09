@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Libreoffice on (⁎˃ᆺ˂)</title>
-    <link>https://fadlun.me/tags/libreoffice/</link>
+    <link>https://alunux.github.io/tags/libreoffice/</link>
     <description>Recent content in Libreoffice on (⁎˃ᆺ˂)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
     <lastBuildDate>Thu, 18 Aug 2016 23:34:28 +0700</lastBuildDate>
     
-	<atom:link href="https://fadlun.me/tags/libreoffice/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alunux.github.io/tags/libreoffice/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tampilan LibreOffice Di Fedora 24</title>
-      <link>https://fadlun.me/post/f24_tampilan_libreoffice/</link>
+      <link>https://alunux.github.io/post/f24_tampilan_libreoffice/</link>
       <pubDate>Thu, 18 Aug 2016 23:34:28 +0700</pubDate>
       
-      <guid>https://fadlun.me/post/f24_tampilan_libreoffice/</guid>
+      <guid>https://alunux.github.io/post/f24_tampilan_libreoffice/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Bismillahirrahmanirrahim.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Sejak saat pertama kali saya melakukan pembaruan dari Fedora 23 ke Fedora 24, saya kurang suka dengan tampilan LibreOffice-nya yang memakai GTK3 secara default. Di Fedora 24, paket libreoffice-gtk3 merupakan paket standar dari aplikasi LibreOffice dan merupakan dependensi dari paket libreoffice-core. Jika kita menghapus paket libreoffice-gtk3, maka paket-paket LibreOffice lainnya juga akan ikut terhapus.&lt;/p&gt;
