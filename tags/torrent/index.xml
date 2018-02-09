@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Torrent on (⁎˃ᆺ˂)</title>
+    <link>https://fadlun.me/tags/torrent/</link>
+    <description>Recent content in Torrent on (⁎˃ᆺ˂)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Sun, 03 Jan 2016 15:55:36 +0700</lastBuildDate>
+    
+	<atom:link href="https://fadlun.me/tags/torrent/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nautilus &#43; BTFS (bittorrent filesystem)</title>
+      <link>https://fadlun.me/post/nautilus_btfs/</link>
+      <pubDate>Sun, 03 Jan 2016 15:55:36 +0700</pubDate>
+      
+      <guid>https://fadlun.me/post/nautilus_btfs/</guid>
+      <description>Bismillahirrahmanirrahim.
+[Persiapan] 
+$ sudo dnf install fuse-devel rb_libtorrent-devel libcurl-devel fuse gvfs-fuse [Kompilasi]
+$ git clone https://github.com/johang/btfs.git btfs $ cd btfs $ autoreconf -i $ ./configure $ make [Instalasi]
+$ sudo make install [Uninstall]
+$ sudo make uninstall [Pemakaian]
+ Buat folder baru yang berfungsi sebagai mount point, misal ~/torrentku. Buka terminal baru dan jalankan perintah mkdir ~/torrentku
+ Mount berkas torrent yang kita miliki ke folder baru yang telah kita buat tadi.</description>
+    </item>
+    
+  </channel>
+</rss>

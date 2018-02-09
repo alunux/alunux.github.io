@@ -1,0 +1,6200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 616 400"
+   width="616"
+   height="400"
+   version="1.1"
+   id="svg272"
+   sodipodi:docname="grey-prism.svg"
+   inkscape:version="0.92+devel unknown">
+  <metadata
+     id="metadata278">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs276">
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter10995">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix10991" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend10993" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11801" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11803"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11805"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11001">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix10997" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend10999" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11807" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11809"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11811"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11007">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11003" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11005" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11813" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11815"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11817"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11013">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11009" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11011" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11819" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11821"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11823"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11019">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11015" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11017" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11825" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11827"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11829"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11025">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11021" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11023" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11831" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11833"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11835"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11031">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11027" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11029" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11837" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11839"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11841"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11037">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11033" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11035" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11843" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11845"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11847"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11043">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11039" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11041" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11849" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11851"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11853"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11049">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11045" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11047" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11855" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11857"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11859"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11055">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11051" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11053" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11861" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11863"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11865"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11061">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11057" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11059" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11867" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11869"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11871"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11067">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11063" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11065" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11873" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11875"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11877"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11073">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11069" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11071" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11879" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11881"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11883"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11079">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11075" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11077" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11885" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11887"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11889"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11085">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11081" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11083" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11891" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11893"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11895"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11091">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11087" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11089" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11897" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11899"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11901"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11097">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11093" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11095" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11903" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11905"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11907"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11103">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11099" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11101" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11909" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11911"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11913"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11109">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11105" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11107" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11915" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11917"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11919"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11115">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11111" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11113" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11921" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11923"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11925"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11121">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11117" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11119" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11927" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11929"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11931"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11127">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11123" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11125" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11933" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11935"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11937"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11133">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11129" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11131" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11939" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11941"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11943"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11139">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11135" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11137" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11945" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11947"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11949"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11145">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11141" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11143" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11951" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11953"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11955"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11151">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11147" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11149" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11957" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11959"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11961"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11157">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11153" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11155" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11963" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11965"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11967"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11163">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11159" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11161" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11969" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11971"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11973"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11169">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11165" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11167" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11975" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11977"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11979"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11175">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11171" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11173" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11981" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11983"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11985"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11181">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11177" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11179" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11987" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11989"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11991"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11187">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11183" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11185" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11993" />
+      <feConvolveMatrix
+         id="feConvolveMatrix11995"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend11997"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11193">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11189" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11191" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix11999" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12001"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12003"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11199">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11195" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11197" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12005" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12007"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12009"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11205">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11201" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11203" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12011" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12013"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12015"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11211">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11207" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11209" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12017" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12019"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12021"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11217">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11213" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11215" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12023" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12025"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12027"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11223">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11219" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11221" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12029" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12031"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12033"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11229">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11225" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11227" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12035" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12037"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12039"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11235">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11231" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11233" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12041" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12043"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12045"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11241">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11237" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11239" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12047" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12049"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12051"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11247">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11243" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11245" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12053" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12055"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12057"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11253">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11249" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11251" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12059" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12061"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12063"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11259">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11255" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11257" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12065" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12067"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12069"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11265">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11261" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11263" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12071" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12073"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12075"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11271">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11267" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11269" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12077" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12079"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12081"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11277">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11273" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11275" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12083" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12085"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12087"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11283">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11279" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11281" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12089" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12091"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12093"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11289">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11285" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11287" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12095" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12097"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12099"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11295">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11291" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11293" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12101" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12103"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12105"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11301">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11297" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11299" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12107" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12109"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12111"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11307">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11303" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11305" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12113" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12115"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12117"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11313">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11309" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11311" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12119" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12121"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12123"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11319">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11315" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11317" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12125" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12127"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12129"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11325">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11321" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11323" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12131" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12133"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12135"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11331">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11327" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11329" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12137" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12139"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12141"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11337">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11333" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11335" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12143" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12145"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12147"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11343">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11339" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11341" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12149" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12151"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12153"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11349">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11345" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11347" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12155" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12157"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12159"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11355">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11351" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11353" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12161" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12163"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12165"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11361">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11357" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11359" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12167" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12169"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12171"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11367">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11363" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11365" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12173" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12175"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12177"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11373">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11369" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11371" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12179" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12181"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12183"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11379">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11375" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11377" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12185" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12187"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12189"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11385">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11381" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11383" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12191" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12193"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12195"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11391">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11387" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11389" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12197" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12199"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12201"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11397">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11393" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11395" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12203" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12205"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12207"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11403">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11399" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11401" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12209" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12211"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12213"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11409">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11405" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11407" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12215" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12217"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12219"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11415">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11411" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11413" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12221" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12223"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12225"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11421">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11417" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11419" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12227" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12229"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12231"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11427">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11423" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11425" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12233" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12235"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12237"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11433">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11429" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11431" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12239" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12241"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12243"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11439">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11435" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11437" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12245" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12247"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12249"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11445">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11441" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11443" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12251" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12253"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12255"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11451">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11447" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11449" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12257" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12259"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12261"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11457">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11453" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11455" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12263" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12265"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12267"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11463">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11459" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11461" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12269" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12271"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12273"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11469">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11465" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11467" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12275" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12277"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12279"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11475">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11471" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11473" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12281" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12283"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12285"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11481">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11477" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11479" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12287" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12289"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12291"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11487">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11483" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11485" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12293" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12295"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12297"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11493">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11489" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11491" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12299" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12301"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12303"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11499">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11495" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11497" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12305" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12307"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12309"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11505">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11501" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11503" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12311" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12313"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12315"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11511">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11507" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11509" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12317" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12319"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12321"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11517">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11513" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11515" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12323" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12325"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12327"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11523">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11519" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11521" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12329" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12331"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12333"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11529">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11525" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11527" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12335" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12337"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12339"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11535">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11531" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11533" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12341" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12343"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12345"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11541">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11537" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11539" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12347" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12349"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12351"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11547">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11543" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11545" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12353" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12355"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12357"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11553">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11549" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11551" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12359" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12361"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12363"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11559">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11555" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11557" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12365" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12367"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12369"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11565">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11561" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11563" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12371" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12373"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12375"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11571">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11567" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11569" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12377" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12379"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12381"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11577">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11573" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11575" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12383" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12385"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12387"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11583">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11579" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11581" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12389" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12391"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12393"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11589">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11585" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11587" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12395" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12397"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12399"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11595">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11591" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11593" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12401" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12403"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12405"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11601">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11597" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11599" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12407" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12409"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12411"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11607">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11603" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11605" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12413" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12415"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12417"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11613">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11609" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11611" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12419" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12421"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12423"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11619">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11615" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11617" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12425" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12427"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12429"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11625">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11621" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11623" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12431" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12433"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12435"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11631">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11627" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11629" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12437" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12439"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12441"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11637">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11633" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11635" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12443" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12445"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12447"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11643">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11639" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11641" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12449" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12451"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12453"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11649">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11645" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11647" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12455" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12457"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12459"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11655">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11651" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11653" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12461" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12463"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12465"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11661">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11657" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11659" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12467" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12469"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12471"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11667">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11663" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11665" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12473" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12475"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12477"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11673">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11669" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11671" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12479" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12481"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12483"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11679">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11675" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11677" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12485" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12487"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12489"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11685">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11681" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11683" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12491" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12493"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12495"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11691">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11687" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11689" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12497" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12499"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12501"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11697">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11693" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11695" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12503" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12505"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12507"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11703">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11699" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11701" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12509" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12511"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12513"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11709">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11705" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11707" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12515" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12517"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12519"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11715">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11711" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11713" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12521" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12523"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12525"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11721">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11717" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11719" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12527" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12529"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12531"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11727">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11723" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11725" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12533" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12535"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12537"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11733">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11729" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11731" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12539" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12541"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12543"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11739">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11735" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11737" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12545" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12547"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12549"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11745">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11741" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11743" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12551" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12553"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12555"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11751">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11747" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11749" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12557" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12559"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12561"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11757">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11753" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11755" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12563" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12565"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12567"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11763">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11759" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11761" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12569" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12571"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12573"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11769">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11765" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11767" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12575" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12577"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12579"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11775">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11771" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11773" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12581" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12583"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12585"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11781">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11777" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11779" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12587" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12589"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12591"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11787">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11783" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11785" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12593" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12595"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12597"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11793">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11789" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11791" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12599" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12601"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12603"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       inkscape:label="Sharpen More"
+       inkscape:menu="Image Effects"
+       inkscape:menu-tooltip="Sharpen edges and boundaries within the object, force=0.3"
+       style="color-interpolation-filters:sRGB;"
+       id="filter11799">
+      <feConvolveMatrix
+         targetY="1"
+         targetX="1"
+         in="SourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1"
+         id="feConvolveMatrix11795" />
+      <feBlend
+         in2="SourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic"
+         id="feBlend11797" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix12605" />
+      <feConvolveMatrix
+         id="feConvolveMatrix12607"
+         targetY="1"
+         targetX="1"
+         in="fbSourceGraphic"
+         divisor="1"
+         kernelMatrix="0 -0.3 0 -0.3 2.2 -0.3 0 -0.3 0"
+         order="3 3"
+         result="result1" />
+      <feBlend
+         in2="fbSourceGraphic"
+         id="feBlend12609"
+         mode="normal"
+         result="result2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Evanescent"
+       id="filter12948"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Blur the contents of objects, preserving the outline and adding progressive transparency at edges">
+      <feComposite
+         in2="SourceGraphic"
+         operator="arithmetic"
+         k1="0"
+         k2="1"
+         result="composite1"
+         id="feComposite12934" />
+      <feColorMatrix
+         in="composite1"
+         values="1"
+         type="saturate"
+         result="colormatrix1"
+         id="feColorMatrix12936" />
+      <feFlood
+         flood-opacity="0.898039"
+         flood-color="rgb(45,35,49)"
+         result="flood1"
+         id="feFlood12938" />
+      <feBlend
+         in="flood1"
+         in2="colormatrix1"
+         mode="multiply"
+         result="blend1"
+         id="feBlend12940" />
+      <feBlend
+         in2="blend1"
+         mode="screen"
+         result="blend2"
+         id="feBlend12942" />
+      <feColorMatrix
+         in="blend2"
+         values="1"
+         type="saturate"
+         result="colormatrix2"
+         id="feColorMatrix12944" />
+      <feComposite
+         in="colormatrix2"
+         in2="SourceGraphic"
+         operator="in"
+         k2="1"
+         result="fbSourceGraphic"
+         id="feComposite12946" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix13568" />
+      <feGaussianBlur
+         id="feGaussianBlur13570"
+         result="result6"
+         stdDeviation="3"
+         in="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix13572"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="result7"
+         id="feComposite13574"
+         operator="in"
+         in="result6" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     inkscape:document-rotation="0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="700"
+     id="namedview274"
+     showgrid="false"
+     inkscape:zoom="1.3225"
+     inkscape:cx="308"
+     inkscape:cy="201.86805"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg272" />
+  <g
+     id="g12746"
+     style="filter:url(#filter12948)">
+    <path
+       style="filter:url(#filter11799)"
+       id="path2"
+       d="M0 0h615.9v399.8h-615.9v-399.8z"
+       fill="#fff" />
+    <path
+       style="filter:url(#filter11793)"
+       id="path4"
+       fill="none"
+       d="M385 133.3h-.1.1z" />
+    <path
+       style="filter:url(#filter11787)"
+       id="path6"
+       d="M500.4 199.9h.1l38.4-66.5-.1-.1h-76.8l-.1.1 38.5 66.5z"
+       fill="#F9F9F9" />
+    <path
+       style="filter:url(#filter11781)"
+       id="path8"
+       d="M346.4 199.9h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+       fill="#F5F5F5" />
+    <path
+       style="filter:url(#filter11775)"
+       id="path10"
+       fill="none"
+       d="M462 133.3h-.1.1z" />
+    <path
+       style="filter:url(#filter11769)"
+       id="path12"
+       d="M423.4 199.9h.1l38.4-66.5-.1-.1h-76.8l-.1.1 38.5 66.5z"
+       fill="#F7F7F7" />
+    <path
+       style="filter:url(#filter11763)"
+       id="path14"
+       fill="none"
+       d="M231.1 133.3h-.1.1zm77 0h-.1.1z" />
+    <path
+       style="filter:url(#filter11757)"
+       id="path16"
+       d="M192.5 199.9h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+       fill="#FCFCFC" />
+    <path
+       style="filter:url(#filter11751)"
+       id="path18"
+       d="M269.4 199.9h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+       fill="#F9F9F9" />
+    <path
+       style="filter:url(#filter11745)"
+       id="path20"
+       fill="none"
+       d="M154.1 133.3h-.1.1z" />
+    <path
+       style="filter:url(#filter11739)"
+       id="path22"
+       d="M231.1 266.5h76.9l-38.5-66.5-38.4 66.5z"
+       fill="#EFEFEF" />
+    <path
+       style="filter:url(#filter11733)"
+       id="path24"
+       d="M269.4 199.9h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6z"
+       fill="#F1F1F1" />
+    <path
+       style="filter:url(#filter11727)"
+       id="path26"
+       fill="none"
+       d="M269.6 199.9h-.1.1zm153.9 0h-.1.1z" />
+    <path
+       style="filter:url(#filter11721)"
+       id="path28"
+       d="M346.4 199.9h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6z"
+       fill="#F0F0F0" />
+    <path
+       style="filter:url(#filter11715)"
+       id="path30"
+       fill="none"
+       d="M500.5 200zm77-133.4h-.1.1z" />
+    <path
+       style="filter:url(#filter11709)"
+       id="path32"
+       d="M385 266.5h76.9l-38.4-66.5-38.5 66.5z"
+       fill="#F2F2F2" />
+    <path
+       style="filter:url(#filter11703)"
+       id="path34"
+       d="M423.5 199.9l38.4 66.6h.1l38.4-66.5-.1-.1h-76.8z"
+       fill="#F3F3F3" />
+    <path
+       style="filter:url(#filter11697)"
+       id="path36"
+       d="M423.4 199.9h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6z"
+       fill="#eee" />
+    <path
+       style="filter:url(#filter11691)"
+       id="path38"
+       fill="none"
+       d="M346.6 199.9h-.1.1zm192.4 66.7z" />
+    <path
+       style="filter:url(#filter11685)"
+       id="path40"
+       d="M500.5 199.9l38.4 66.6h.1l38.4-66.5-.1-.1h-76.8zm-38.5 66.6l38.4 66.6h.1l38.4-66.5-.1-.1h-76.8z"
+       fill="#F8F8F8" />
+    <path
+       style="filter:url(#filter11679)"
+       id="path42"
+       d="M346.6 333.2h76.9l-38.5-66.6-38.4 66.6z"
+       fill="#F7F7F7" />
+    <path
+       style="filter:url(#filter11673)"
+       id="path44"
+       d="M461.9 266.5h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6z"
+       fill="#F8F8F8" />
+    <path
+       style="filter:url(#filter11667)"
+       id="path46"
+       d="M423.5 333.2h76.9l-38.4-66.6-38.5 66.6z"
+       fill="#F4F4F4" />
+    <path
+       style="filter:url(#filter11661)"
+       id="path48"
+       fill="none"
+       d="M577.4 200zm38.5-66.6z" />
+    <path
+       style="filter:url(#filter11655)"
+       id="path50"
+       d="M539 133.3l38.4 66.6h.1l38.4-66.5-.1-.1h-76.8z"
+       fill="#F7F7F7" />
+    <path
+       style="filter:url(#filter11649)"
+       id="path52"
+       d="M154 133.4l-76.9-.1-.1.1 38.4 66.5h.1l38.5-66.5z"
+       fill="#F9F9F9" />
+    <path
+       style="filter:url(#filter11643)"
+       id="path54"
+       d="M154 266.5h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6z"
+       fill="#F8F8F8" />
+    <path
+       style="filter:url(#filter11637)"
+       id="path56"
+       d="M115.6 333.2h76.9l-38.5-66.6-38.4 66.6zm-.1-133.2l-38.4 66.5h76.9l-38.5-66.5z"
+       fill="#F5F5F5" />
+    <path
+       style="filter:url(#filter11631)"
+       id="path58"
+       d="M154.1 266.5l38.4-66.5-.1-.1h-76.9l-.1.1 38.4 66.5h.3z"
+       fill="#F4F4F4" />
+    <path
+       style="filter:url(#filter11625)"
+       id="path60"
+       fill="none"
+       d="M115.5 199.9h.1-.1z" />
+    <path
+       style="filter:url(#filter11619)"
+       id="path62"
+       d="M231 266.5h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6z"
+       fill="#F7F7F7" />
+    <path
+       style="filter:url(#filter11613)"
+       id="path64"
+       d="M269.6 333.2h76.9l-38.5-66.6-38.4 66.6z"
+       fill="#F9F9F9" />
+    <path
+       style="filter:url(#filter11607)"
+       id="path66"
+       d="M307.9 266.5h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6zm-115.3 66.7h76.9l-38.5-66.6-38.4 66.6z"
+       fill="#F8F8F8" />
+    <path
+       style="filter:url(#filter11601)"
+       id="path68"
+       d="M384.9 266.5h-76.9l-.1.1 38.4 66.5h.1l38.5-66.6z"
+       fill="#FAFAFA" />
+    <path
+       style="filter:url(#filter11595)"
+       id="path70"
+       d="M308.1 266.5h76.9l-38.5-66.5-38.4 66.5z"
+       fill="#F1F1F1" />
+    <path
+       style="filter:url(#filter11589)"
+       id="path72"
+       d="M615.9 266.5l-38.5-66.5-38.4 66.5h76.9z"
+       fill="#FAFAFA" />
+    <path
+       style="filter:url(#filter11583)"
+       id="path74"
+       d="M462 133.4l-38.4 66.5h76.9l-38.5-66.5zm0-133.3l-38.4 66.5h76.9l-38.5-66.5z"
+       fill="#F7F7F7" />
+    <path
+       style="filter:url(#filter11577)"
+       id="path76"
+       d="M539 .1l-38.4 66.5h76.9l-38.5-66.5zm-500.4 333.1h76.9l-38.5-66.6-38.4 66.6z"
+       fill="#F5F5F5" />
+    <path
+       style="filter:url(#filter11571)"
+       id="path78"
+       d="M.1 133.3h76.9l-38.4-66.6-38.5 66.6z"
+       fill="#F3F3F3" />
+    <path
+       style="filter:url(#filter11565)"
+       id="path80"
+       fill="none"
+       d="M77 266.5h.1-.1zm0-133.2h.1-.1z" />
+    <path
+       style="filter:url(#filter11559)"
+       id="path82"
+       d="M38.6 199.9h76.9l-38.5-66.5-38.4 66.5z"
+       fill="#F7F7F7" />
+    <path
+       style="filter:url(#filter11553)"
+       id="path84"
+       fill="none"
+       d="M0 266.5h.1-.1z" />
+    <path
+       style="filter:url(#filter11547)"
+       id="path86"
+       d="M115.5 66.7l-38.4 66.5h76.9l-38.5-66.5z"
+       fill="#F4F4F4" />
+    <path
+       style="filter:url(#filter11541)"
+       id="path88"
+       d="M77 .1l-38.4 66.5h76.9l-38.5-66.5z"
+       fill="#F1F1F1" />
+    <path
+       style="filter:url(#filter11535)"
+       id="path90"
+       d="M231 .1l-38.4 66.5h76.9l-38.5-66.5z"
+       fill="#F7F7F7" />
+    <path
+       style="filter:url(#filter11529)"
+       id="path92"
+       d="M308 .1l-38.4 66.5h76.9l-38.5-66.5z"
+       fill="#F5F5F5" />
+    <path
+       style="filter:url(#filter11523)"
+       id="path94"
+       d="M385 .1l-38.4 66.5h76.9l-38.5-66.5z"
+       fill="#F7F7F7" />
+    <path
+       style="filter:url(#filter11517)"
+       id="path96"
+       d="M154 .1l-38.4 66.5h76.9l-38.5-66.5z"
+       fill="#F4F4F4" />
+    <path
+       style="filter:url(#filter11511)"
+       id="path98"
+       d="M577.4 333.2l-38.4-66.6-38.4 66.5h76.8z"
+       fill="#F0F0F0" />
+    <path
+       style="filter:url(#filter11505)"
+       id="path100"
+       fill="none"
+       d="M154 266.6z" />
+    <path
+       style="filter:url(#filter11499)"
+       id="path102"
+       d="M154.1 266.5h76.9l-38.5-66.5-38.4 66.5z"
+       fill="#F5F5F5" />
+    <path
+       style="filter:url(#filter11493)"
+       id="path104"
+       d="M192.5 66.7l-38.4 66.5h76.9l-38.5-66.5z"
+       fill="#F7F7F7" />
+    <path
+       style="filter:url(#filter11487)"
+       id="path106"
+       fill="none"
+       d="M231 266.6zm77 0z" />
+    <path
+       style="filter:url(#filter11481)"
+       id="path108"
+       d="M385 133.4l-38.4 66.5h76.9l-38.5-66.5z"
+       fill="#F8F8F8" />
+    <path
+       style="filter:url(#filter11475)"
+       id="path110"
+       fill="none"
+       d="M192.5 199.9h.1-.1z" />
+    <path
+       style="filter:url(#filter11469)"
+       id="path112"
+       d="M308 133.4l-38.4 66.5h76.9l-38.5-66.5z"
+       fill="#F7F7F7" />
+    <path
+       style="filter:url(#filter11463)"
+       id="path114"
+       fill="none"
+       d="M385 266.6z" />
+    <path
+       style="filter:url(#filter11457)"
+       id="path116"
+       d="M231 133.4l-38.4 66.5h76.9l-38.5-66.5z"
+       fill="#F9F9F9" />
+    <path
+       style="filter:url(#filter11451)"
+       id="path118"
+       d="M115.6 199.9h76.9l-38.5-66.5-38.4 66.5z"
+       fill="#FBFBFB" />
+    <path
+       style="filter:url(#filter11445)"
+       id="path120"
+       d="M346.5 66.7l-38.4 66.5h76.9l-38.5-66.5z"
+       fill="#F8F8F8" />
+    <path
+       style="filter:url(#filter11439)"
+       id="path122"
+       fill="none"
+       d="M462 266.6z" />
+    <path
+       style="filter:url(#filter11433)"
+       id="path124"
+       d="M269.5 66.7l-38.4 66.5h76.9l-38.5-66.5z"
+       fill="#F7F7F7" />
+    <path
+       style="filter:url(#filter11427)"
+       id="path126"
+       d="M500.5 66.7l-38.5 66.6h76.9l-38.4-66.6z"
+       fill="#F3F3F3" />
+    <path
+       style="filter:url(#filter11421)"
+       id="path128"
+       d="M423.5 66.7l-38.5 66.6h76.9l-38.4-66.6z"
+       fill="#F8F8F8" />
+    <path
+       style="filter:url(#filter11415)"
+       id="path130"
+       d="M577.4 66.7l-38.4 66.6h76.9l-38.5-66.6z"
+       fill="#F4F4F4" />
+    <path
+       style="filter:url(#filter11409)"
+       id="path132"
+       d="M577.4 199.9l-38.4-66.5-38.4 66.5h76.8z"
+       fill="#FBFBFB" />
+    <path
+       style="filter:url(#filter11403)"
+       id="path134"
+       d="M538.9 266.5l-38.4-66.5-38.5 66.5h76.9z"
+       fill="#FAFAFA" />
+    <path
+       style="filter:url(#filter11397)"
+       id="path136"
+       fill="none"
+       d="M539 133.3h-.1.1z" />
+    <path
+       style="filter:url(#filter11391)"
+       id="path138"
+       d="M115.5 66.6h.1l38.4-66.5v-.1h-76.9l-.1.1 38.5 66.5z"
+       fill="#F2F2F2" />
+    <path
+       style="filter:url(#filter11385)"
+       id="path140"
+       d="M538.9 133.3h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+       fill="#F3F3F3" />
+    <path
+       style="filter:url(#filter11379)"
+       id="path142"
+       fill="none"
+       d="M77.1 0h-.1.1z" />
+    <path
+       style="filter:url(#filter11373)"
+       id="path144"
+       d="M577.4 66.6h.1l38.5-66.6h-77v.1l38.4 66.5z"
+       fill="#F4F4F4" />
+    <path
+       style="filter:url(#filter11367)"
+       id="path146"
+       fill="none"
+       d="M154.1 0h-.1.1z" />
+    <path
+       style="filter:url(#filter11361)"
+       id="path148"
+       d="M192.5 66.6h.1l38.4-66.5v-.1h-76.9l-.1.1 38.5 66.5z"
+       fill="#FBFBFB" />
+    <path
+       style="filter:url(#filter11355)"
+       id="path150"
+       fill="none"
+       d="M462 0h-.1.1zm77 0h-.1.1z" />
+    <path
+       style="filter:url(#filter11349)"
+       id="path152"
+       d="M500.4 66.6h.1l38.5-66.5-.1-.1h-76.9v.1l38.4 66.5z"
+       fill="#F8F8F8" />
+    <path
+       style="filter:url(#filter11343)"
+       id="path154"
+       fill="none"
+       d="M385 0h-.1.1z" />
+    <path
+       style="filter:url(#filter11337)"
+       id="path156"
+       d="M423.4 66.6h.1l38.5-66.5-.1-.1h-76.9v.1l38.4 66.5z"
+       fill="#F3F3F3" />
+    <path
+       style="filter:url(#filter11331)"
+       id="path158"
+       d="M346.4 66.6h.1l38.5-66.5-.1-.1h-76.9v.1l38.4 66.5z"
+       fill="#F4F4F4" />
+    <path
+       style="filter:url(#filter11325)"
+       id="path160"
+       fill="none"
+       d="M231.1 0h-.1.1z" />
+    <path
+       style="filter:url(#filter11319)"
+       id="path162"
+       d="M269.4 66.6h.1l38.5-66.5-.1-.1h-76.9v.1l38.4 66.5z"
+       fill="#F4F4F4" />
+    <path
+       style="filter:url(#filter11313)"
+       id="path164"
+       fill="none"
+       d="M308.1 0h-.1.1z" />
+    <path
+       style="filter:url(#filter11307)"
+       id="path166"
+       d="M38.6 66.6l38.4-66.5v-.1h-77l38.5 66.6h.1z"
+       fill="#F2F2F2" />
+    <path
+       style="filter:url(#filter11301)"
+       id="path168"
+       fill="none"
+       d="M461.9 400h.1-.1z" />
+    <path
+       style="filter:url(#filter11295)"
+       id="path170"
+       d="M500.5 333.3l-38.5 66.6.1.1h76.9l.1-.1-38.6-66.6z"
+       fill="#F8F8F8" />
+    <path
+       style="filter:url(#filter11289)"
+       id="path172"
+       d="M346.5 333.3l-38.5 66.6.1.1h76.9l.1-.1-38.6-66.6z"
+       fill="#FBFBFB" />
+    <path
+       style="filter:url(#filter11283)"
+       id="path174"
+       fill="none"
+       d="M384.9 400h.1-.1z" />
+    <path
+       style="filter:url(#filter11277)"
+       id="path176"
+       d="M423.5 333.3l-38.5 66.6.1.1h76.9l.1-.1-38.6-66.6z"
+       fill="#F9F9F9" />
+    <path
+       style="filter:url(#filter11271)"
+       id="path178"
+       fill="none"
+       d="M538.9 400h.1-.1z" />
+    <path
+       style="filter:url(#filter11265)"
+       id="path180"
+       d="M539 399.9l77 .1-38.6-66.7-38.4 66.6z"
+       fill="#EFEFEF" />
+    <path
+       style="filter:url(#filter11259)"
+       id="path182"
+       d="M38.6 333.3l-38.6 66.7h77l.1-.1-38.5-66.6z"
+       fill="#FAFAFA" />
+    <path
+       style="filter:url(#filter11253)"
+       id="path184"
+       fill="none"
+       d="M77 400h.1-.1zm230.9 0h.1-.1z" />
+    <path
+       style="filter:url(#filter11247)"
+       id="path186"
+       d="M115.5 333.3l-38.5 66.6.1.1h76.9l.1-.1-38.6-66.6z"
+       fill="#FEFEFE" />
+    <path
+       style="filter:url(#filter11241)"
+       id="path188"
+       fill="none"
+       d="M231 400h.1-.1z" />
+    <path
+       style="filter:url(#filter11235)"
+       id="path190"
+       d="M269.5 333.3l-38.5 66.6.1.1h76.9l.1-.1-38.6-66.6z"
+       fill="#FCFCFC" />
+    <path
+       style="filter:url(#filter11229)"
+       id="path192"
+       fill="none"
+       d="M154 400h.1-.1z" />
+    <path
+       style="filter:url(#filter11223)"
+       id="path194"
+       d="M192.5 333.3l-38.5 66.6.1.1h76.9l.1-.1-38.6-66.6z"
+       fill="#FAFAFA" />
+    <path
+       style="filter:url(#filter11217)"
+       id="path196"
+       fill="none"
+       d="M115.6 66.6h-.1.1z" />
+    <path
+       style="filter:url(#filter11211)"
+       id="path198"
+       d="M77 133.4l-76.9-.1-.1.1 38.4 66.5h.1l38.5-66.5z"
+       fill="#F4F4F4" />
+    <path
+       style="filter:url(#filter11205)"
+       id="path200"
+       fill="none"
+       d="M0 133.3h.1-.1z" />
+    <path
+       style="filter:url(#filter11199)"
+       id="path202"
+       d="M77 133.3h.1l38.4-66.5-.1-.1h-76.8l-.1.1 38.5 66.5z"
+       fill="#F5F5F5" />
+    <path
+       style="filter:url(#filter11193)"
+       id="path204"
+       fill="none"
+       d="M38.5 333.2h.1-.1z" />
+    <path
+       style="filter:url(#filter11187)"
+       id="path206"
+       d="M38.5 333.2l-38.4-66.6-.1.1v66.4h38.5z"
+       fill="#F6F6F6" />
+    <path
+       style="filter:url(#filter11181)"
+       id="path208"
+       d="M38.5 199.9l-38.4-66.5-.1.1v66.4h38.5z"
+       fill="#F4F4F4" />
+    <path
+       style="filter:url(#filter11175)"
+       id="path210"
+       d="M0 266.5h.1l38.5-66.5-.1-.1h-38.5v66.6z"
+       fill="#F7F7F7" />
+    <path
+       style="filter:url(#filter11169)"
+       id="path212"
+       d="M0 400l38.6-66.7-.1-.1h-38.5v66.8z"
+       fill="#F5F5F5" />
+    <path
+       style="filter:url(#filter11163)"
+       id="path214"
+       d="M38.5 66.6l-38.5-66.6v66.6h38.5z"
+       fill="#F4F4F4" />
+    <path
+       style="filter:url(#filter11157)"
+       id="path216"
+       d="M0 133.3h.1l38.4-66.5-.1-.1h-38.4v66.6z"
+       fill="#F5F5F5" />
+    <path
+       style="filter:url(#filter11151)"
+       id="path218"
+       fill="none"
+       d="M38.5 199.9h.1-.1z" />
+    <path
+       style="filter:url(#filter11145)"
+       id="path220"
+       d="M38.6 200l-38.5 66.5h76.9l-38.4-66.5zm38.4 66.6l-76.9-.1-.1.1 38.4 66.5h.1l38.5-66.5zm.1-.1l38.4-66.5-.1-.1h-76.8l-.1.1 38.5 66.5h.1z"
+       fill="#F5F5F5" />
+    <path
+       style="filter:url(#filter11139)"
+       id="path222"
+       fill="none"
+       d="M38.6 66.6h-.1.1zm308 0h-.1.1z" />
+    <path
+       style="filter:url(#filter11133)"
+       id="path224"
+       d="M384.9 133.3h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+       fill="#F6F6F6" />
+    <path
+       style="filter:url(#filter11127)"
+       id="path226"
+       fill="none"
+       d="M423.5 66.6h-.1.1z" />
+    <path
+       style="filter:url(#filter11121)"
+       id="path228"
+       d="M461.9 133.3h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+       fill="#FAFAFA" />
+    <path
+       style="filter:url(#filter11115)"
+       id="path230"
+       d="M154 133.3h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+       fill="#F6F6F6" />
+    <path
+       style="filter:url(#filter11109)"
+       id="path232"
+       fill="none"
+       d="M500.5 66.6h-.1.1zm-307.9 0h-.1.1z" />
+    <path
+       style="filter:url(#filter11103)"
+       id="path234"
+       d="M231 133.3h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+       fill="#F6F6F6" />
+    <path
+       style="filter:url(#filter11097)"
+       id="path236"
+       fill="none"
+       d="M269.6 66.6h-.1.1z" />
+    <path
+       style="filter:url(#filter11091)"
+       id="path238"
+       d="M307.9 133.3h.1l38.4-66.5-.1-.1h-76.9l-.1.1 38.6 66.5z"
+       fill="#F8F8F8" />
+    <path
+       style="filter:url(#filter11085)"
+       id="path240"
+       fill="none"
+       d="M615.9 266.6zm-38.5 66.7z" />
+    <path
+       style="filter:url(#filter11079)"
+       id="path242"
+       d="M539 266.5l38.4 66.6h.1l38.4-66.5-.1-.1h-76.8z"
+       fill="#EDEDED" />
+    <path
+       style="filter:url(#filter11073)"
+       id="path244"
+       fill="none"
+       d="M500.4 333.2h.1-.1z" />
+    <path
+       style="filter:url(#filter11067)"
+       id="path246"
+       d="M500.5 333.2l38.4 66.7 38.5-66.6-.1-.1h-76.8z"
+       fill="#F9F9F9" />
+    <path
+       style="filter:url(#filter11061)"
+       id="path248"
+       d="M423.5 333.2l38.4 66.7 38.5-66.6-.1-.1h-76.8zm-384.9 0l38.4 66.7 38.5-66.6-.1-.1h-76.8z"
+       fill="#FBFBFB" />
+    <path
+       style="filter:url(#filter11055)"
+       id="path250"
+       d="M577.5 66.6l38.4 66.6v-66.6h-38.4z"
+       fill="#F5F5F5" />
+    <path
+       style="filter:url(#filter11049)"
+       id="path252"
+       d="M615.9 133.5l-38.4 66.4h38.4v-66.4z"
+       fill="#F4F4F4" />
+    <path
+       style="filter:url(#filter11043)"
+       id="path254"
+       d="M615.9 266.7l-38.4 66.4h38.4v-66.4z"
+       fill="#F6F6F6" />
+    <path
+       style="filter:url(#filter11037)"
+       id="path256"
+       d="M577.5 333.2l38.4 66.6v-66.6h-38.4z"
+       fill="#F5F5F5" />
+    <path
+       style="filter:url(#filter11031)"
+       id="path258"
+       d="M615.9.2l-38.4 66.4h38.4v-66.4z"
+       fill="#F4F4F4" />
+    <path
+       style="filter:url(#filter11025)"
+       id="path260"
+       d="M577.5 199.9l38.4 66.6v-66.6h-38.4z"
+       fill="#F7F7F7" />
+    <path
+       style="filter:url(#filter11019)"
+       id="path262"
+       d="M192.6 333.2l38.4 66.7 38.5-66.6-.1-.1h-76.8z"
+       fill="#FCFCFC" />
+    <path
+       style="filter:url(#filter11013)"
+       id="path264"
+       d="M115.6 333.2l38.4 66.7 38.5-66.6-.1-.1h-76.8z"
+       fill="#FDFDFD" />
+    <path
+       style="filter:url(#filter11007)"
+       id="path266"
+       fill="none"
+       d="M192.5 333.2h.1-.1zm-77 0h.1-.1z" />
+    <path
+       style="filter:url(#filter11001)"
+       id="path268"
+       d="M269.6 333.2l38.4 66.7 38.5-66.6-.1-.1h-76.8zm77 0l38.4 66.7 38.5-66.6-.1-.1h-76.8z"
+       fill="#FCFCFC" />
+    <path
+       style="filter:url(#filter10995)"
+       id="path270"
+       fill="none"
+       d="M346.4 333.2h.1-.1zm-77 0h.1-.1zm154 0h.1-.1z" />
+  </g>
+</svg>

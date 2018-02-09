@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kernel on (⁎˃ᆺ˂)</title>
+    <link>https://fadlun.me/tags/kernel/</link>
+    <description>Recent content in Kernel on (⁎˃ᆺ˂)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Fri, 05 Feb 2016 12:34:50 +0700</lastBuildDate>
+    
+	<atom:link href="https://fadlun.me/tags/kernel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hapus Kernel Lama di Fedora dengan DNF</title>
+      <link>https://fadlun.me/post/dnf_hapus_kernel_lama_fedora/</link>
+      <pubDate>Fri, 05 Feb 2016 12:34:50 +0700</pubDate>
+      
+      <guid>https://fadlun.me/post/dnf_hapus_kernel_lama_fedora/</guid>
+      <description>Bismillahirrahmanirrahim.
+[Masalah]
+Sebelum Fedora menjadikan DNF sebagai manajer paketnya, kita dengan mudah dapat menghapus kernel lama beserta dependensinya yang tidak perlukan oleh paket lain dengan menggunakan perintah:
+package-cleanup -y --oldkernels --count=1 [Solusi]
+Akan tetapi sejak Fedora memakai DNF, fitur itu pun dihilangkan karena package-cleanup merupakan bagian dari YUM. Dengan DNF, kita dapat menghapus kernel lama dengan perintah:
+dnf remove kernel-core-* -x=kernel-core-$(uname -r) Sebelum menjalankan perintah (dan skrip yang ada di bawah) pastikan kita sedang menjalankan Fedora dengan kernel versi terbaru (Anda memilihnya saat booting melalui GRUB).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arch Linux on (⁎˃ᆺ˂)</title>
+    <link>https://fadlun.me/tags/arch-linux/</link>
+    <description>Recent content in Arch Linux on (⁎˃ᆺ˂)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Thu, 18 Sep 2014 06:52:36 +0700</lastBuildDate>
+    
+	<atom:link href="https://fadlun.me/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tugas Tantangan 1 [Sistem Operasi]</title>
+      <link>https://fadlun.me/post/tugas-tantangan-1-sistem-operasi/</link>
+      <pubDate>Thu, 18 Sep 2014 06:52:36 +0700</pubDate>
+      
+      <guid>https://fadlun.me/post/tugas-tantangan-1-sistem-operasi/</guid>
+      <description>Bismillahirrahmanirrahim.
+Postingan ini bertujuan untuk memenuhi tugas praktikum mata kuliah Sistem Operasi. Adapun tantangan yang diberikan:
+Screenshot login screen dengan nama user masing-masing, instal aplikasi tambahan melalui terminal, screenshot syntax, proses dan hasil, jalankan aplikasi Line dari windows screenshot fullscreen.  [Chapter 1] Mengambil Screenshot Login Screen
+Untuk mengambil screenshot login screen yang muncul, saya membutuhkan bantuan aplikasi ImageMagick, virtual terminal, dan sebuah baris perintah. Baris perintah ini saya sederhanakan dengan membuat sebuah file bash script agar mudah saat pemakaian (tidak mengetik baris perintah yang panjang).</description>
+    </item>
+    
+    <item>
+      <title>Mencoba Arch Linux </title>
+      <link>https://fadlun.me/post/mencoba-arch-linux/</link>
+      <pubDate>Tue, 16 Sep 2014 05:23:25 +0700</pubDate>
+      
+      <guid>https://fadlun.me/post/mencoba-arch-linux/</guid>
+      <description>Bismillahirrahmanirrahim.
+Kemarin (15-09-14) dan hari ini (16-09-14) saya menyelesaikan proses instalasi Arch Linux di laptop saya. Sebelumnya sudah ada distro Fedora yang sudah tinggal cukup lama. Sudah hampir setahun (mungkin lebih) Fedora belum mengeluarkan rilis terbaru miliknya. Ini berkaitan dengan proyek terbaru Fedora yang bernama Fedora.Next. Fedora.Next ini memiliki 3 fokus, yakni Fedora Server, Fedora Cloud, Fedora Workstation. Fedora Workstation inilah yang nanti menjadi distro untuk para pengguna desktop. Sayangnya, jadwal perilisan Fedora terus mengalami kemunduran.</description>
+    </item>
+    
+  </channel>
+</rss>

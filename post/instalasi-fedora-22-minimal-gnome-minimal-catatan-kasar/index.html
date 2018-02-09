@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8" />
+
+  
+  <title>Instalasi Fedora 22 Minimal &#43; GNOME Minimal (Catatan Kasar)</title>
+
+  
+  
+
+
+
+  
+  <meta name="author" content="alunux" />
+  <meta name="description" content="Bismillahirrahmanirrahim.
+[Chapter 1] Sebelum Instalasi
+ Download paket NetworkManager-wifi untuk mengakses internet via jaringan wifi: Download 64-bit Download 32-bit
+ Download paket wpa-supplicant sebagai dependensi paket NetworkManager-wifi: Download 64-bit Download 32-bit
+ Simpan kedua paket tersebut.
+  [Chapter 2] Instalasi
+              
+[Chapter 3] Koneksi ke Wifi
+ Mount partisi di mana paket NetworkManager-wifi dan wpa_supplicant berada." />
+
+  
+  
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@alunux" />
+    <meta name="twitter:title" content="Instalasi Fedora 22 Minimal &#43; GNOME Minimal (Catatan Kasar)" />
+    <meta name="twitter:description" content="Bismillahirrahmanirrahim.
+[Chapter 1] Sebelum Instalasi
+ Download paket NetworkManager-wifi untuk mengakses internet via jaringan wifi: Download 64-bit Download 32-bit
+ Download paket wpa-supplicant sebagai dependensi paket NetworkManager-wifi: Download 64-bit Download 32-bit
+ Simpan kedua paket tersebut.
+  [Chapter 2] Instalasi
+              
+[Chapter 3] Koneksi ke Wifi
+ Mount partisi di mana paket NetworkManager-wifi dan wpa_supplicant berada." />
+    <meta name="twitter:image" content=https://fadlun.me/img/avatar.jpg />
+  
+
+
+
+
+<meta name="generator" content="Hugo 0.25.1" />
+
+
+<link rel="canonical" href="https://fadlun.me/post/instalasi-fedora-22-minimal-gnome-minimal-catatan-kasar/" />
+<link rel="alternative" href="https://fadlun.me/index.xml" title="(⁎˃ᆺ˂)" type="application/atom+xml" />
+
+
+<meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="format-detection" content="telephone=no,email=no,adress=no" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+
+
+<meta name="robots" content="index,follow" />
+<meta name="referrer" content="origin-when-cross-origin" />
+
+
+
+
+
+
+
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="(⁎˃ᆺ˂)" />
+<meta name="msapplication-tooltip" content="(⁎˃ᆺ˂)" />
+<meta name='msapplication-navbutton-color' content="#5fbf5e" />
+<meta name="msapplication-TileColor" content="#5fbf5e" />
+<meta name="msapplication-TileImage" content="/img/tile-image-windows.png" />
+<link rel="icon" href="https://fadlun.me/img/favicon.ico" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://fadlun.me/img/favicon-16x16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://fadlun.me/img/favicon-32x32.png" />
+<link rel="icon" sizes="192x192" href="https://fadlun.me/img/touch-icon-android.png" />
+<link rel="apple-touch-icon" href="https://fadlun.me/img/touch-icon-apple.png" />
+<link rel="mask-icon" href="https://fadlun.me/img/safari-pinned-tab.svg" color="#5fbf5e" />
+
+
+
+<link rel="stylesheet" href="//cdn.bootcss.com/video.js/6.2.1/video-js.min.css" />
+
+<link rel="stylesheet" href="https://fadlun.me/css/bundle.css" />
+
+
+  
+  <!--[if lt IE 9]>
+    <script src="//cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <script src="//cdn.bootcss.com/video.js/6.2.1/ie8/videojs-ie8.min.js"></script>
+  <![endif]-->
+
+<!--[if lte IE 11]>
+    <script src="//cdn.bootcss.com/classlist/2014.01.31/classList.min.js"></script>
+  <![endif]-->
+
+
+<script src="//cdn.bootcss.com/object-fit-images/3.2.3/ofi.min.js"></script>
+
+
+<script src="//cdn.bootcss.com/smooth-scroll/12.1.0/js/smooth-scroll.polyfills.min.js"></script>
+
+
+</head>
+  <body>
+    
+    <div class="suspension">
+      <a title="Go to top" class="to-top is-hide"><span class="icon icon-up"></span></a>
+      
+        
+        <a title="Go to comments" class="to-comment" href="#disqus_thread"><span class="icon icon-comment"></span></a>
+        
+      
+    </div>
+    
+    
+  <header class="site-header">
+  <img class="avatar" src="https://fadlun.me/img/avatar.jpg" alt="Avatar">
+  
+  <h2 class="title">(⁎˃ᆺ˂)</h2>
+  
+  <p class="subtitle">I’m La Ode Muh. Fadlun Akbar. Computer engineering, physics, and maths, I love them. I write about Free Software and Open Source in this blog.</p>
+  <button class="menu-toggle" type="button">
+    <span class="icon icon-menu"></span>
+  </button>
+  <nav class="site-menu collapsed">
+    <h2 class="offscreen">Main Menu</h2>
+    <ul class="menu-list">
+      
+      
+      
+      
+        <li class="menu-item  is-active"><a href="https://fadlun.me/">Blog</a></li>
+      
+        <li class="menu-item "><a href="https://github.com/alunux">GitHub</a></li>
+      
+        <li class="menu-item "><a href="https://fadlun.me/about/">About</a></li>
+      
+    </ul>
+  </nav>
+  <nav class="social-menu collapsed">
+    <h2 class="offscreen">Social Networks</h2>
+    <ul class="social-list">
+
+      
+      <li class="social-item">
+        <a href="mailto:contact@fadlun.me" title="Email"><span class="icon icon-email"></span></a>
+      </li>
+
+      
+      <li class="social-item">
+        <a href="//github.com/alunux" title="GitHub"><span class="icon icon-github"></span></a>
+      </li>
+
+      <li class="social-item">
+        <a href="//twitter.com/alunux" title="Twitter"><span class="icon icon-twitter"></span></a>
+      </li>
+
+      <li class="social-item">
+        <a href="//www.facebook.com/alun.esq165" title="Facebook"><span class="icon icon-facebook"></span></a>
+      </li>
+
+      <li class="social-item">
+        <a href="//plus.google.com/FadlunAkbar" title="Google+"><span class="icon icon-google"></span></a>
+      </li>
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <li class="social-item">
+        <a href="//www.linkedin.com/in/la-ode-muh-fadlun-akbar-771979143" title="Linkedin"><span class="icon icon-linkedin"></span></a>
+      </li>
+
+      
+
+      
+
+      
+
+      <li class="social-item">
+        <a href="https://fadlun.me/index.xml"><span class="icon icon-rss" title="RSS"></span></a>
+      </li>
+
+    </ul>
+  </nav>
+</header>
+
+  <section class="main post-detail">
+    <header class="post-header">
+      <h1 class="post-title">Instalasi Fedora 22 Minimal &#43; GNOME Minimal (Catatan Kasar)</h1>
+      <p class="post-meta">@alunux · Aug 18, 2015 · 2 min read</p>
+    </header>
+    <article class="post-content"><p><strong>Bismillahirrahmanirrahim.</strong></p>
+
+<p><strong>[Chapter 1] Sebelum Instalasi</strong></p>
+
+<ol>
+<li><p>Download paket NetworkManager-wifi untuk mengakses internet via jaringan wifi: <a href="ftp://fr2.rpmfind.net/linux/fedora/linux/releases/22/Everything/x86_64/os/Packages/n/NetworkManager-wifi-1.0.2-1.fc22.x86_64.rpm">Download 64-bit</a> <a href="ftp://fr2.rpmfind.net/linux/fedora/linux/releases/22/Everything/i386/os/Packages/n/NetworkManager-wifi-1.0.2-1.fc22.i686.rpm">Download 32-bit</a></p></li>
+
+<li><p>Download paket wpa-supplicant sebagai dependensi paket NetworkManager-wifi: <a href="ftp://fr2.rpmfind.net/linux/fedora/linux/releases/22/Everything/x86_64/os/Packages/w/wpa_supplicant-2.3-3.fc22.x86_64.rpm">Download 64-bit</a> <a href="ftp://fr2.rpmfind.net/linux/fedora/linux/releases/22/Everything/i386/os/Packages/w/wpa_supplicant-2.3-3.fc22.i686.rpm">Download 32-bit</a></p></li>
+
+<li><p>Simpan kedua paket tersebut.</p></li>
+</ol>
+
+<p><strong>[Chapter 2] Instalasi</strong></p>
+
+<p><a href="https://wonderneko.files.wordpress.com/2015/08/1.png"><img width="150" height="113" src="https://wonderneko.files.wordpress.com/2015/08/1.png?w=150&amp;h=113"></a>
+<a href="https://wonderneko.files.wordpress.com/2015/08/2.png"><img width="150" height="113" src="https://wonderneko.files.wordpress.com/2015/08/2.png?w=150&amp;h=113"s></a>
+<a href="https://wonderneko.files.wordpress.com/2015/08/3.png"><img width="150" height="113" src="https://wonderneko.files.wordpress.com/2015/08/3.png?w=150&amp;h=113"></a>
+<a href="https://wonderneko.files.wordpress.com/2015/08/4.png"><img width="150" height="113" src="https://wonderneko.files.wordpress.com/2015/08/4.png?w=150&amp;h=113"></a>
+<a href="https://wonderneko.files.wordpress.com/2015/08/5.png"><img width="150" height="113" src="https://wonderneko.files.wordpress.com/2015/08/5.png?w=150&amp;h=113"></a>
+<a href="https://wonderneko.files.wordpress.com/2015/08/6.png"><img width="150" height="113" src="https://wonderneko.files.wordpress.com/2015/08/6.png?w=150&amp;h=113"></a>
+<a href="https://wonderneko.files.wordpress.com/2015/08/7.png"><img width="150" height="113" src="https://wonderneko.files.wordpress.com/2015/08/7.png?w=150&amp;h=113"></a>
+<a href="https://wonderneko.files.wordpress.com/2015/08/8.png"><img width="150" height="113" src="https://wonderneko.files.wordpress.com/2015/08/8.png?w=150&amp;h=113"></a>
+<a href="https://wonderneko.files.wordpress.com/2015/08/9.png"><img width="150" height="113" src="https://wonderneko.files.wordpress.com/2015/08/9.png?w=150&amp;h=113"></a>
+<a href="https://wonderneko.files.wordpress.com/2015/08/10.png"><img width="150" height="113" src="https://wonderneko.files.wordpress.com/2015/08/10.png?w=150&amp;h=113"></a>
+<a href="https://wonderneko.files.wordpress.com/2015/08/11.png"><img width="150" height="113" src="https://wonderneko.files.wordpress.com/2015/08/11.png?w=150&amp;h=113"></a>
+<a href="https://wonderneko.files.wordpress.com/2015/08/12.png"><img width="150" height="113" src="https://wonderneko.files.wordpress.com/2015/08/12.png?w=150&amp;h=113"></a>
+<a href="https://wonderneko.files.wordpress.com/2015/08/13.png"><img width="150" height="113" src="https://wonderneko.files.wordpress.com/2015/08/13.png?w=150&amp;h=113"></a>
+<a href="https://wonderneko.files.wordpress.com/2015/08/14.png"><img width="150" height="113" src="https://wonderneko.files.wordpress.com/2015/08/14.png?w=150&amp;h=113"></a>
+<a href="https://wonderneko.files.wordpress.com/2015/08/15.png"><img width="150" height="83" src="https://wonderneko.files.wordpress.com/2015/08/15.png?w=150&amp;h=83"></a></p>
+
+<p><strong>[Chapter 3] Koneksi ke Wifi</strong></p>
+
+<ol>
+<li><p>Mount partisi di mana paket NetworkManager-wifi dan wpa_supplicant berada. Saya menyimpannya di paritisi /dev/sda2, sudo mount /dev/sda2 /mnt</p></li>
+
+<li><p>Masuk ke direktori /mnt, cd /mnt</p></li>
+
+<li><p>Lakukan instalasi kedua paket tadi. Untuk 32-bit, <code>sudo dnf &ndash;disablerepo=* install NetworkManager-wifi-1.0.2-1.fc22.i686.rpm wpa_supplicant-2.3-3.fc22.i686.rpm</code></p></li>
+
+<li><p>Untuk 64-bit, <code>sudo dnf &ndash;disablerepo=* install NetworkManager-wifi-1.0.2-1.fc22.x86_64.rpm wpa_supplicant-2.3-3.fc22.x86_64.rpm</code></p></li>
+
+<li><p>Unmount partisi, <code>sudo umount -Rf /mnt</code></p></li>
+
+<li><p><code>sudo systemctl restart NetworkManager</code></p></li>
+
+<li><p><code>sudo nmcli radio wifi on</code></p></li>
+
+<li><p><code>sudo ifconfig wlp3s0 up</code></p></li>
+
+<li><p><code>iwlist wlp3s0 scan</code></p></li>
+
+<li><p><code>nmcli dev wifi list</code></p></li>
+
+<li><p><code>nmcli device wifi rescan</code></p></li>
+
+<li><p><code>sudo nmcli device wifi connect PTIIK</code></p></li>
+
+<li><p><code>ping google.com</code></p></li>
+</ol>
+
+<p><strong>[Chapter 4] Instal GNOME Minimal</strong></p>
+
+<ol>
+<li><p><code>sudo dnf update</code></p></li>
+
+<li><p><code>sudo dnf install gnome-shell gnome-js-common gnome-terminal mesa-dri-drivers xorg-x11-drivers</code></p></li>
+
+<li><p><code>sudo rm /etc/systemd/system/default.target</code></p></li>
+
+<li><p><code>sudo systemctl &ndash;force enable gdm</code></p></li>
+</ol>
+
+<p><strong>Catatan:</strong></p>
+
+<p>Saya sengaja membuat catatan kasar ini sebagai pengingat apabila saya akan menginstal ulang Fedora di laptop saya. Fedora Minimal ini mirip seperti Arch Linux. Berhubung saya menyukai Arch Linux, akhirnya saya mencari cara agar Fedora yang terinstal di laptop saya bersifat minimalis. Dengan instalasi yang minimalis ini, saya dapat membangun sistem yang saya inginkan layaknya sedang berada di Arch Linux. Tidak direkomendasikan bagi pemula yang baru memakai Linux dan belum tahu dasar sistem manajemen paket.</p>
+
+<p>Tulisan ini dikerjakan menggunakan WordPress dengan bantuan Google Chrome 44.0.2403.155. Sistem operasi yang digunakan yaitu Fedora 22. Semua percobaan di atas dilakukan dalam mesin virtual dengan Fedora 22 Minimal terinstal didalamnya. Virtualisasi dilakukan dengan bantuan VirtualBox 4.3.30. Semua screenshot yang ada di tulisan ini diambil dengan menggunakan fitur screenshot yang ada di VirtualBox.</p>
+</article>
+    <footer class="post-footer">
+      
+      <ul class="post-tags">
+        
+          <li><a href="https://fadlun.me/tags/fedora"><span class="tag">Fedora</span></a></li>
+        
+          <li><a href="https://fadlun.me/tags/gnome"><span class="tag">GNOME</span></a></li>
+        
+      </ul>
+      
+      <p class="post-copyright">
+        © This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.This post was published <strong>725</strong> days ago, content in the post may be inaccurate, even wrong now, please take risk yourself.
+      </p>
+    </footer>
+    
+      <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "fadlun-me" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      
+    
+  </section>
+  <footer class="site-footer">
+  <p>© 2017 (⁎˃ᆺ˂)</p>
+  <p>Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> with theme <a href="https://github.com/laozhu/hugo-nuo" target="_blank">Nuo</a>.</p>
+  
+</footer>
+
+
+
+<script src="//cdn.bootcss.com/video.js/6.2.1/video.min.js"></script>
+<script src="//cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<script src="https://fadlun.me/js/bundle.js"></script>
+
+
+
+
+  </body>
+</html>

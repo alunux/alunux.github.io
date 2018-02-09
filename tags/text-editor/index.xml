@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text Editor on (⁎˃ᆺ˂)</title>
+    <link>https://fadlun.me/tags/text-editor/</link>
+    <description>Recent content in Text Editor on (⁎˃ᆺ˂)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Tue, 30 Aug 2016 23:23:48 +0700</lastBuildDate>
+    
+	<atom:link href="https://fadlun.me/tags/text-editor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Auto Hide Scrollbar Di Atom (Atom Material UI Theme)</title>
+      <link>https://fadlun.me/post/atom_hide_scrollbar/</link>
+      <pubDate>Tue, 30 Aug 2016 23:23:48 +0700</pubDate>
+      
+      <guid>https://fadlun.me/post/atom_hide_scrollbar/</guid>
+      <description>Bismillahirrahmanirrahim.
+Pada postingan kali ini saya ingin berbagi tips bagi teman-teman pengguna penyunting teks Atom yang kurang suka dengan ukuran scrollbar yang agak besar atau tampilan scrollbar yang selalu nongol pada editor. Hasil akhirnya adalah scrollbar tidak akan tampil kecuali kita melakukan hover pada area vertical/horizontal scrollbar.
+Langkah pertama yaitu carilah lokasi direktori paket tema yang dipakai. Lokasi paket-paket yang terpasang pada Atom terletak di direktori ~/.atom/packages/. Karena saya memakai tema Atom Material, maka saya dapatkan direktorinya di ~/.</description>
+    </item>
+    
+  </channel>
+</rss>

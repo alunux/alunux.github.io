@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pulseaudio on (⁎˃ᆺ˂)</title>
+    <link>https://fadlun.me/tags/pulseaudio/</link>
+    <description>Recent content in Pulseaudio on (⁎˃ᆺ˂)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Tue, 15 Mar 2016 16:19:09 +0700</lastBuildDate>
+    
+	<atom:link href="https://fadlun.me/tags/pulseaudio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fix Volume Lompat Menjadi 100%</title>
+      <link>https://fadlun.me/post/fix_voume_100/</link>
+      <pubDate>Tue, 15 Mar 2016 16:19:09 +0700</pubDate>
+      
+      <guid>https://fadlun.me/post/fix_voume_100/</guid>
+      <description>Bismillahirrahmanirrahim.
+ sudo nano /etc/pulse/daemon.conf
+ Hilangkan tanda titik-koma pada flat-volumes dan ubah nilainya menjadi no
+ Save, Ctrl+X dan enter
+ Reboot.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

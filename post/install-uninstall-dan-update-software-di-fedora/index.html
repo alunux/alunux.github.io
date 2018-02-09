@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8" />
+
+  
+  <title>Install, Uninstall, Dan Update Software Di Fedora</title>
+
+  
+  
+
+
+
+  
+  <meta name="author" content="alunux" />
+  <meta name="description" content="Bismillahirrahmanirrahim.
+[Chapter 1] Install Paket atau Software Menginstal paket di Fedora sangatlah mudah untuk dilakukan. Jika kita mengetahui nama suatu paket dengan benar, maka cukup dengan mengetikkan perintah yum install namapaket dalam mode root. Di sini saya juga akan menjelaskan cara mencari suatu paket berdasarkan sedikit informasi tentang paket yang diinginkan dan melihat deskripsi suatu paket.
+ Jika kita memiliki informasi mengenai suatu paket yang kita tidak tahu namanya, maka kita dapat memakai perintah yum search namapaket atau yum search infopaket atau yum search info1 | grep info2." />
+
+  
+  
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@alunux" />
+    <meta name="twitter:title" content="Install, Uninstall, Dan Update Software Di Fedora" />
+    <meta name="twitter:description" content="Bismillahirrahmanirrahim.
+[Chapter 1] Install Paket atau Software Menginstal paket di Fedora sangatlah mudah untuk dilakukan. Jika kita mengetahui nama suatu paket dengan benar, maka cukup dengan mengetikkan perintah yum install namapaket dalam mode root. Di sini saya juga akan menjelaskan cara mencari suatu paket berdasarkan sedikit informasi tentang paket yang diinginkan dan melihat deskripsi suatu paket.
+ Jika kita memiliki informasi mengenai suatu paket yang kita tidak tahu namanya, maka kita dapat memakai perintah yum search namapaket atau yum search infopaket atau yum search info1 | grep info2." />
+    <meta name="twitter:image" content=https://fadlun.me/img/avatar.jpg />
+  
+
+
+
+
+<meta name="generator" content="Hugo 0.25.1" />
+
+
+<link rel="canonical" href="https://fadlun.me/post/install-uninstall-dan-update-software-di-fedora/" />
+<link rel="alternative" href="https://fadlun.me/index.xml" title="(⁎˃ᆺ˂)" type="application/atom+xml" />
+
+
+<meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="format-detection" content="telephone=no,email=no,adress=no" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+
+
+<meta name="robots" content="index,follow" />
+<meta name="referrer" content="origin-when-cross-origin" />
+
+
+
+
+
+
+
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="apple-mobile-web-app-title" content="(⁎˃ᆺ˂)" />
+<meta name="msapplication-tooltip" content="(⁎˃ᆺ˂)" />
+<meta name='msapplication-navbutton-color' content="#5fbf5e" />
+<meta name="msapplication-TileColor" content="#5fbf5e" />
+<meta name="msapplication-TileImage" content="/img/tile-image-windows.png" />
+<link rel="icon" href="https://fadlun.me/img/favicon.ico" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://fadlun.me/img/favicon-16x16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://fadlun.me/img/favicon-32x32.png" />
+<link rel="icon" sizes="192x192" href="https://fadlun.me/img/touch-icon-android.png" />
+<link rel="apple-touch-icon" href="https://fadlun.me/img/touch-icon-apple.png" />
+<link rel="mask-icon" href="https://fadlun.me/img/safari-pinned-tab.svg" color="#5fbf5e" />
+
+
+
+<link rel="stylesheet" href="//cdn.bootcss.com/video.js/6.2.1/video-js.min.css" />
+
+<link rel="stylesheet" href="https://fadlun.me/css/bundle.css" />
+
+
+  
+  <!--[if lt IE 9]>
+    <script src="//cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <script src="//cdn.bootcss.com/video.js/6.2.1/ie8/videojs-ie8.min.js"></script>
+  <![endif]-->
+
+<!--[if lte IE 11]>
+    <script src="//cdn.bootcss.com/classlist/2014.01.31/classList.min.js"></script>
+  <![endif]-->
+
+
+<script src="//cdn.bootcss.com/object-fit-images/3.2.3/ofi.min.js"></script>
+
+
+<script src="//cdn.bootcss.com/smooth-scroll/12.1.0/js/smooth-scroll.polyfills.min.js"></script>
+
+
+</head>
+  <body>
+    
+    <div class="suspension">
+      <a title="Go to top" class="to-top is-hide"><span class="icon icon-up"></span></a>
+      
+        
+        <a title="Go to comments" class="to-comment" href="#disqus_thread"><span class="icon icon-comment"></span></a>
+        
+      
+    </div>
+    
+    
+  <header class="site-header">
+  <img class="avatar" src="https://fadlun.me/img/avatar.jpg" alt="Avatar">
+  
+  <h2 class="title">(⁎˃ᆺ˂)</h2>
+  
+  <p class="subtitle">I’m La Ode Muh. Fadlun Akbar. Computer engineering, physics, and maths, I love them. I write about Free Software and Open Source in this blog.</p>
+  <button class="menu-toggle" type="button">
+    <span class="icon icon-menu"></span>
+  </button>
+  <nav class="site-menu collapsed">
+    <h2 class="offscreen">Main Menu</h2>
+    <ul class="menu-list">
+      
+      
+      
+      
+        <li class="menu-item  is-active"><a href="https://fadlun.me/">Blog</a></li>
+      
+        <li class="menu-item "><a href="https://github.com/alunux">GitHub</a></li>
+      
+        <li class="menu-item "><a href="https://fadlun.me/about/">About</a></li>
+      
+    </ul>
+  </nav>
+  <nav class="social-menu collapsed">
+    <h2 class="offscreen">Social Networks</h2>
+    <ul class="social-list">
+
+      
+      <li class="social-item">
+        <a href="mailto:contact@fadlun.me" title="Email"><span class="icon icon-email"></span></a>
+      </li>
+
+      
+      <li class="social-item">
+        <a href="//github.com/alunux" title="GitHub"><span class="icon icon-github"></span></a>
+      </li>
+
+      <li class="social-item">
+        <a href="//twitter.com/alunux" title="Twitter"><span class="icon icon-twitter"></span></a>
+      </li>
+
+      <li class="social-item">
+        <a href="//www.facebook.com/alun.esq165" title="Facebook"><span class="icon icon-facebook"></span></a>
+      </li>
+
+      <li class="social-item">
+        <a href="//plus.google.com/FadlunAkbar" title="Google+"><span class="icon icon-google"></span></a>
+      </li>
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <li class="social-item">
+        <a href="//www.linkedin.com/in/la-ode-muh-fadlun-akbar-771979143" title="Linkedin"><span class="icon icon-linkedin"></span></a>
+      </li>
+
+      
+
+      
+
+      
+
+      <li class="social-item">
+        <a href="https://fadlun.me/index.xml"><span class="icon icon-rss" title="RSS"></span></a>
+      </li>
+
+    </ul>
+  </nav>
+</header>
+
+  <section class="main post-detail">
+    <header class="post-header">
+      <h1 class="post-title">Install, Uninstall, Dan Update Software Di Fedora</h1>
+      <p class="post-meta">@alunux · Oct 31, 2014 · 3 min read</p>
+    </header>
+    <article class="post-content"><p><strong>Bismillahirrahmanirrahim.</strong></p>
+
+<p><strong>[Chapter 1] Install Paket atau Software</strong>
+<p style="text-align:left;">Menginstal paket di Fedora sangatlah mudah untuk dilakukan. Jika kita mengetahui nama suatu paket dengan benar, maka cukup dengan mengetikkan perintah <code>yum install namapaket </code>dalam mode root. Di sini saya juga akan menjelaskan cara mencari suatu paket berdasarkan sedikit informasi tentang paket yang diinginkan dan melihat deskripsi suatu paket.</p></p>
+
+<ul>
+<li><p>Jika kita memiliki informasi mengenai suatu paket yang kita tidak tahu namanya, maka kita dapat memakai perintah <code>yum search namapaket</code> atau <code>yum search infopaket</code> atau <code>yum search info1 | grep info2</code>.</p></li>
+
+<li><p>Kita juga dapat melihat deskripsi suatu paket. Untuk melakukan hal tersebut, kita dapat memakai perintah <code>yum info namapaket</code>. Mulai dari nama, arksitektur, versi, ukuran, bahkan url website resmi paket tersebut juga ditampilkan. Banyak informasi berguna yang akan ditampilkan oleh perintah tersebut.</p></li>
+</ul>
+
+<p style="text-align:center;">Klik gambar untuk memperbesar gambar</p>
+<p align=center>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_96.png"><img width="150" height="84" src="https://wonderneko.files.wordpress.com/2014/10/alunux_096.png?w=150&amp;h=84"></a>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_97.png"><img width="150" height="84" src="https://wonderneko.files.wordpress.com/2014/10/alunux_097.png?w=150&amp;h=84"></a>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_98.png"><img width="150" height="54" src="https://wonderneko.files.wordpress.com/2014/10/alunux_098.png?w=150&amp;h=54"></a>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_99.png"><img width="150" height="39" src="https://wonderneko.files.wordpress.com/2014/10/alunux_099.png?w=150&amp;h=39"></a>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_100.png"><img width="150" height="26" src="https://wonderneko.files.wordpress.com/2014/10/alunux_100.png?w=150&amp;h=26"></a>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_101.png"><img width="150" height="65" src="https://wonderneko.files.wordpress.com/2014/10/alunux_101.png?w=150&amp;h=65"></a>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_102.png"><img width="150" height="61" src="https://wonderneko.files.wordpress.com/2014/10/alunux_102.png?w=150&amp;h=61"></a>
+</p>
+
+<p><strong>[Chapter 2] Uninstall Paket atau Software</strong></p>
+
+<p>Menghapus suatu paket atau software sama mudahnya ketika kita menginstall paket. Perintahnya pun cukup simpel, <code>yum remove namapaket</code>. Yang perlu diketahui adalah perintah tersebut cuman menghapus paket tersebut saja, paket-paket dependensi yang ikut bersama paket tersebut saat instalasi tidaklah terhapus. Untuk menghapus paket-paket yang tidak diperlukan oleh suatu aplikasi atau sistem, saya biasanya memakai perintah <code>yum autoremove. </code></p>
+
+<p style="text-align:center;">Klik gambar untuk memperbesar gambar</p>
+<p align=center>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_103.png"><img width="150" height="84" src="https://wonderneko.files.wordpress.com/2014/10/alunux_103.png?w=150&amp;h=84"></a>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_104.png"><img width="150" height="84" src="https://wonderneko.files.wordpress.com/2014/10/alunux_104.png?w=150&amp;h=84"></a>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_105.png"><img width="150" height="84" src="https://wonderneko.files.wordpress.com/2014/10/alunux_105.png?w=150&amp;h=84"></a>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_106.png"><img width="150" height="84" src="https://wonderneko.files.wordpress.com/2014/10/alunux_106.png?w=150&amp;h=84"></a>
+</p>
+
+<p><strong>[Chapter 3] Update Software dan System</strong></p>
+
+<ul>
+<li><p>Untuk melakukan update sistem Fedora beserta paket-paket yang ada di dalamnya, kita dapat memakai perintah <code>yum update</code>. Jika ada suatu paket yang kita tidak ingin masuk dalam daftar update, maka kita dapat menambahkan <code>--exclude=namapaket</code>. Kita juga dapat menggunakan wildcard. Misal saya tidak ingin kernel saya ikut terupdate, maka perintah yang saya gunakan adalah <code>yum update --exclude=kernel*</code></p></li>
+
+<li><p>Jika kita cuman ingin mengupdate suatu paket saja, maka kita dapat memakai perintah <code>yum update namapaket</code> atau <code>yum update paket1 paket2 paket3 dan seterusnya</code> kalau lebih dari satu paket. Misal saya ingin mengupdate firefox, maka perintahnya adalah <code>yum update firefox</code>.</p></li>
+
+<li><p>Ada suatu kasus di mana Fedora yang kita miliki memiliki paket-paket yang bentrok satu sama lain. Saya pernah mengalami kasus seperti ini. Hal ini terjadi ketika ada paket-paket yang tersedia direpo resmi tapi tersedia juga direpo tambahan kita (unofficial repo). Waktu itu saya ingin menginstall Wine. Tiba-tiba muncul pesan error, <code>Error: Multilib version problems found</code>. Nah, akhirnya saya memakai perintah <code>yum distro-sync </code>atau bisa juga <code>yum distribution-synchronization</code>. Hasilnya, ada beberapa paket yang harus di downgrade agar semua proses manajemen paket berjalan dengan semestinya. Untuk lebih lengkapnya silahkan lihat catatan saya di sini <a href="http://pastebin.com/ZFYs1JHD" target="_blank"><a href="http://pastebin.com/ZFYs1JHD">http://pastebin.com/ZFYs1JHD</a></a></p></li>
+</ul>
+
+<p style="text-align:center;">Klik gambar untuk memperbesar gambar</p>
+<p align=center>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_107.png"><img width="150" height="84" src="https://wonderneko.files.wordpress.com/2014/10/alunux_107.png?w=150&amp;h=84"></a>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_108.png"><img width="150" height="84" src="https://wonderneko.files.wordpress.com/2014/10/alunux_108.png?w=150&amp;h=84"></a>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_109.png"><img width="150" height="84" src="https://wonderneko.files.wordpress.com/2014/10/alunux_109.png?w=150&amp;h=84"></a>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_110.png"><img width="150" height="84" src="https://wonderneko.files.wordpress.com/2014/10/alunux_110.png?w=150&amp;h=84"></a>
+    <a href="https://wonderneko.files.wordpress.com/2014/10/alunux_111.png"><img width="150" height="32" src="https://wonderneko.files.wordpress.com/2014/10/alunux_111.png?w=150&amp;h=32"></a>
+</p>
+
+<p>Sekian penjelasan singkat dari saya. Semoga pengetahuan yang sedikit ini bermanfaat bagi teman-teman sekalian yang memakai sistem operasi Fedora dan berbagai keturunannya yang memakai manajer paket YUM. Tulisan dikerjakan menggunakan WordPress dengan bantuan Google Chrome. Sistem operasi yang digunakan yaitu Fedora 20 dengan Desktop Environment GNOME 3.10.2. Shell menggunakan ZSH. Semua screenshot yang ada di tulisan ini diambil dengan bantuan Shutter 0.91.</p>
+</article>
+    <footer class="post-footer">
+      
+      <ul class="post-tags">
+        
+          <li><a href="https://fadlun.me/tags/fedora"><span class="tag">Fedora</span></a></li>
+        
+          <li><a href="https://fadlun.me/tags/dnf"><span class="tag">DNF</span></a></li>
+        
+      </ul>
+      
+      <p class="post-copyright">
+        © This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.This post was published <strong>1016</strong> days ago, content in the post may be inaccurate, even wrong now, please take risk yourself.
+      </p>
+    </footer>
+    
+      <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "fadlun-me" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+      
+    
+  </section>
+  <footer class="site-footer">
+  <p>© 2017 (⁎˃ᆺ˂)</p>
+  <p>Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> with theme <a href="https://github.com/laozhu/hugo-nuo" target="_blank">Nuo</a>.</p>
+  
+</footer>
+
+
+
+<script src="//cdn.bootcss.com/video.js/6.2.1/video.min.js"></script>
+<script src="//cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+<script src="https://fadlun.me/js/bundle.js"></script>
+
+
+
+
+  </body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grub on (⁎˃ᆺ˂)</title>
+    <link>https://fadlun.me/tags/grub/</link>
+    <description>Recent content in Grub on (⁎˃ᆺ˂)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Thu, 17 Sep 2015 18:42:01 +0700</lastBuildDate>
+    
+	<atom:link href="https://fadlun.me/tags/grub/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Boot ISO Fedora 22 via Grub (Ubuntu 14.04)</title>
+      <link>https://fadlun.me/post/boot-iso-fedora-22-via-grub-ubuntu-14-04/</link>
+      <pubDate>Thu, 17 Sep 2015 18:42:01 +0700</pubDate>
+      
+      <guid>https://fadlun.me/post/boot-iso-fedora-22-via-grub-ubuntu-14-04/</guid>
+      <description>Bismillahirrahmanirrahim.
+ Buka berkas /etc/grub.d/40_custom dalam mode root (di sini saya menggunakan gedit). Command: sudo gedit /etc/grub.d/40_custom
+ Tambahkan entri baru di baris paling bawah. Isinya seperti ini:
+menuentry &#34;Fedora 22 ISO&#34; --class fedora { set isoname=&#34;Fedora-Live-Workstation-i686-22-3.iso&#34; set isopath=&#34;/home/poros/Downloads/&#34; set isofile=&#34;${isopath}/${isoname}&#34; echo &#34;Using ${isoname}...&#34; loopback loop (hd0,8)$isofile linux (loop)/isolinux/vmlinuz0 iso-scan/filename=${isofile} root=live:CDLABEL=Fedora-Live-WS-i686-22-3 rootfstype=auto ro rd.live.image quiet rhgb rd.luks=0 rd.md=0 rd.dm=0 initrd (loop)/isolinux/initrd0.img } Ubah nilai isoname sesuai dengan nama ISO Fedora yang kamu punya, di sini saya punya Fedora-Live-Workstation-i686-22-3.</description>
+    </item>
+    
+  </channel>
+</rss>

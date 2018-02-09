@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rpm on (⁎˃ᆺ˂)</title>
+    <link>https://fadlun.me/tags/rpm/</link>
+    <description>Recent content in Rpm on (⁎˃ᆺ˂)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Mon, 03 Apr 2017 20:02:43 +0700</lastBuildDate>
+    
+	<atom:link href="https://fadlun.me/tags/rpm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Belajar DNF: Dasar Menginstal Sebuah Paket</title>
+      <link>https://fadlun.me/post/dnf_dasar_install/</link>
+      <pubDate>Mon, 03 Apr 2017 20:02:43 +0700</pubDate>
+      
+      <guid>https://fadlun.me/post/dnf_dasar_install/</guid>
+      <description>Bismillahirrahmanirrahim.
+Pada pembelajaran kali ini kita akan mempelajari cara instalasi paket menggunakan DNF. Ada beberapa syarat yang mesti kita penuhi sebelum kita memulai pembelajaran. Syarat:
+ Distro linux berbasis RPM yang menggunakan DNF sebagai manajer paketnya. Saya sendiri menggunakan Fedora. DNF telah resmi menjadi manajer paket standar sejak Fedora 22 rilis;
+ Koneksi internet (opsional).
+  [Chapter 1] Instalasi Langsung Dari Repositori Yang Tersedia [Online]
+Cukup jalankan perintah sudo dnf install namapaket.</description>
+    </item>
+    
+    <item>
+      <title>Belajar Python dengan DNF: Menghitung Jumlah Paket Terinstal</title>
+      <link>https://fadlun.me/post/python_dnf_jumlah_paket/</link>
+      <pubDate>Wed, 17 Feb 2016 03:45:49 +0700</pubDate>
+      
+      <guid>https://fadlun.me/post/python_dnf_jumlah_paket/</guid>
+      <description>Bismillahirrahmanirrahim.
+Pada kesempatan kali ini kita akan mencoba menghitung jumlah paket yang terinstal pada Fedora dengan membandingkan hasil dari perintah query dari RPM dan skrip yang dibuat dengan memanfaatkan API dari DNF.
+[Cara 1] Menggunakan RPM
+[Cara 2] Memanfaatkan DNF API
+ Hasilnya sama dengan Cara 1. Total ada 2313 paket yang terinstal.</description>
+    </item>
+    
+    <item>
+      <title>Draft Perkenalan onerpm</title>
+      <link>https://fadlun.me/post/draft_perkenalan_onerpm/</link>
+      <pubDate>Thu, 28 Jan 2016 19:40:39 +0700</pubDate>
+      
+      <guid>https://fadlun.me/post/draft_perkenalan_onerpm/</guid>
+      <description>Download onerpm-slide</description>
+    </item>
+    
+    <item>
+      <title>Perkenalan Singkat ONERPM</title>
+      <link>https://fadlun.me/post/perkenalan-singkat-onerpm/</link>
+      <pubDate>Mon, 17 Aug 2015 00:40:51 +0700</pubDate>
+      
+      <guid>https://fadlun.me/post/perkenalan-singkat-onerpm/</guid>
+      <description>Bismillahirrahmanirrahim.
+Alhamdulillah, salah satu proyek liburan saya telah rampung sekitar 57%. Proyek tersebut bernama ONERPM. Apa itu ONERPM? ONERPM adalah sebuah bash script sederhana berbasis DNF yang berguna untuk memudahkan pemasangan sebuah paket aplikasi di Fedora secara offline. Proyek ONERPM ini terinspirasi dari proyek alldeb buatan Nifa Dwi Kurniawan dan Fedora Offline Package Manager.
+[Chapter 1] Konsep Pemaketan ONERPM
+ONERPM mempunyai paket tersendiri untuk melakukan pemasangan paket aplikasi ke sistem Fedora yang kita miliki, yaitu paket berekstensi .</description>
+    </item>
+    
+  </channel>
+</rss>

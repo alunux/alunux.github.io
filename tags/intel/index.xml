@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intel on (⁎˃ᆺ˂)</title>
+    <link>https://fadlun.me/tags/intel/</link>
+    <description>Recent content in Intel on (⁎˃ᆺ˂)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
+    <lastBuildDate>Thu, 17 Sep 2015 19:50:56 +0700</lastBuildDate>
+    
+	<atom:link href="https://fadlun.me/tags/intel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intel® Graphics Installer 1.2.0 for Linux (Fedora 22)</title>
+      <link>https://fadlun.me/post/intel_graphics_intaller/</link>
+      <pubDate>Thu, 17 Sep 2015 19:50:56 +0700</pubDate>
+      
+      <guid>https://fadlun.me/post/intel_graphics_intaller/</guid>
+      <description>Bismillahirrahmanirrahim
+ Buka terminal, jalankan perintah-perintah berikut:  wget &amp;ndash;no-check-certificate https://download.01.org/gfx/RPM-GPG-KEY-ilg ; sudo rpm &amp;ndash;import RPM-GPG-KEY-ilg wget &amp;ndash;no-check-certificate https://download.01.org/gfx/RPM-GPG-KEY-ilg-2 ; sudo rpm &amp;ndash;import RPM-GPG-KEY-ilg-2  Unduh berkas RPMnya:  intel-linux-graphics-installer-1.2.0-22.intel20152.i686.rpm (32-bit)
+ intel-linux-graphics-installer-1.2.0-22.intel20152.x86_64.rpm (64-bit)
+  Buka kembali terminal dan masuk ke dalam direktori yang memuat berkas RPM yang telah diunduh. Contoh: cd ~/Downloads Lakukan pemasangan paket:
+ sudo dnf install intel-linux-graphics-installer-1.2.0-22.intel20152.i686.rpm (32-bit)
+ sudo dnf install intel-linux-graphics-installer-1.2.0-22.intel20152.x86_64.rpm (64-bit)  Buka menu aplikasi (application launcher), cari Intel Graphics Installer for Linux Ikuti step-step yang ada pada installer hingga selesai:</description>
+    </item>
+    
+  </channel>
+</rss>
