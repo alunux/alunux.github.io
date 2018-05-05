@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Mon, 03 Apr 2017 23:25:29 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 May 2018 00:22:42 +0700</lastBuildDate>
     
 	<atom:link href="https://alunux.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Berita Wiki Bumblebee</title>
+      <link>https://alunux.github.io/post/berita-wiki-bumblebee/</link>
+      <pubDate>Sun, 06 May 2018 00:22:42 +0700</pubDate>
+      
+      <guid>https://alunux.github.io/post/berita-wiki-bumblebee/</guid>
+      <description>Btw, sejak akhir januari kemarin, wiki untuk Bumblebee mengalami pembaruan. Sebelumnya, paket-paket yang digunakan berasal dari repo NC State University. Sekarang, repo yang dipakai adalah negotivo17 dan copr chenxiaolong/bumblebee.
+Ikutin yang mana? Semuanya valid, pemaketannya juga bagus, dan terpelihara (termasuk untuk Rawhide). Untuk teman-teman developer, saya saranin ikutin wiki terkini, yaitu memakai repo negativo17 dan copr chenxiaolong/bumblebee. Selain driver, di sana disediakan juga tools dan libraries CUDA, termasuk cuDNN (untuk yang main deep neural networks).</description>
+    </item>
     
     <item>
       <title>Backup &amp; Restore Pengaturan Polari</title>
